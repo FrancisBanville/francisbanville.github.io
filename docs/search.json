@@ -1,16 +1,23 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
-  },
-  {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "francisbanville.github.io",
+    "title": "Francis Banville",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "I am a PhD candidate in ecology based in Montreal, Quebec (also known as the bonjour-hi city). I study complex systems such as food webs and other ecological networks using mathematical and probabilistic models. Specifically, I am currently predicting the structure of aquatic and terrestrial food webs on a global scale using entropy to better understand what drives trophic interactions at the community level. Considering that winter temperature can be as low as -30 °C in Montreal, my research interests in maximizing the entropy of a variety of ecosystems could stem from repressed feelings and desires for warmth."
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Francis Banville",
+    "section": "Education",
+    "text": "Education\n\nPhD in Biological Sciences (ongoing) | Université de Montréal and Université de Sherbrooke\nBSc in Biological Sciences (2016-18) | Université de Montréal"
+  },
+  {
+    "objectID": "index.html#experience",
+    "href": "index.html#experience",
+    "title": "Francis Banville",
+    "section": "Experience",
+    "text": "Experience\n\nTeaching assistant (2020 - present) | Université de Montréal, Département de sciences biologiques (Biostatistics and Population dynamics courses)\nProgramming mentor (2020-22) | Institute for Data Valorization (IVADO), Data.Trek training program\nResearch assistant (2021) | Group on Earth Observations Biodiversity Observation Network (GEO BON)"
   }
 ]

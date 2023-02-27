@@ -3,16 +3,22 @@ project:
   output-dir: docs
 
 website:
-  title: "francisbanville.github.io"
+  title: "Francis Banville"
   navbar:
+    background: primary
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - projects.qmd
+      - publications.qmd
+      - cv.qmd
+      - miscellaneous.qmd
 
 format:
   html:
-    theme: cosmo
+    theme: 
+      dark: Solar
+      light: Flatly 
     css: styles.css
     toc: true
 
