@@ -8,7 +8,7 @@ about:
   links:
     - icon: mail
       text: Email
-      href: francis.banville@umontreal.ca
+      href: mailto:francis.banville@umontreal.ca
     - icon: twitter
       text: Twitter
       href: https://twitter.com/francisbanv
