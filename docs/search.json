@@ -19,5 +19,12 @@
     "title": "Francis Banville",
     "section": "Experience",
     "text": "Experience\n\nTeaching assistant (2020 - present) | Université de Montréal, Département de sciences biologiques (Biostatistics and Population dynamics courses)\nProgramming mentor (2020-22) | Institute for Data Valorization (IVADO), Data.Trek training program\nResearch assistant (2021) | Group on Earth Observations Biodiversity Observation Network (GEO BON)"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "projects",
+    "section": "",
+    "text": "<p class=“custom-subtitle”>Here is my custom subtitle.</p>\n<p>And here is some normal text beneath it.</p>\n[Here is another custom subtitle written with Quarto syntax]{.custom-subtitle}\nAlso note that I do not need to wrap this text in the `<p>` tag in order for it to render as normal text. `.qmd` files allow us to seamlessly blend markdown syntax with HTML."
   }
 ]

@@ -1,0 +1,50 @@
+/*-- scss:defaults --*/
+
+// Fonts
+@import url('https://fonts.googleapis.com/css2?family=Gelasio&display=swap');
+
+// Colors
+$blue-dark: #002b36;
+$cream: #F0F7F4;
+$eggplant: #5D4954; 
+$gray: #64605f;
+$gray-light: #949799;
+$green: #157A37;
+$green-blue: #AFD4C4;
+$pink: #FF5E5B;
+$purple: #AE8BD1;
+$red: #C2200A;
+$yellow: #EB9C0A;
+
+// Sizes
+$my-font-size: 25px;
+$my-width: 500px;
+
+// Base document colors
+$navbar-bg: $green; // navbar
+$navbar-fg: $cream; // navbar foreground elements
+$navbar-hl: $green-blue; // highlight color when hovering over navbar links
+$body-bg: $blue-dark; // page background 
+$body-color: $cream; // page text 
+$footer-bg: $cream; // footer 
+$link-color: $gray-light; // hyperlinks 
+
+// Inline code
+$code-bg: $cream; // inline code background color
+$code-color: $purple; // inline code text color
+
+// Code blocks
+$code-block-bg: $cream; // code block background color
+
+/*-- scss:rules --*/
+
+// CSS rules
+
+h1 {
+  font-weight: 700;
+  color: $green-blue;
+}
+
+.navbar-logo {
+  max-height: 50px;
+}
