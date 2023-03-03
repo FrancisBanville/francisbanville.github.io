@@ -7,7 +7,7 @@ website:
   favicon: pictures/icons/otter.png
   navbar:
     title: false
-    logo: pictures/logo/logo-transparent-cropped.png
+    logo: pictures/logo/logo2.png
     logo-alt: "The web of Francis"
     background: primary
     left:
