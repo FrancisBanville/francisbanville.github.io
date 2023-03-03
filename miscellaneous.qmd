@@ -1,4 +1,4 @@
 ---
-title: "Miscellaneous"
+title: "miscellaneous"
 editor: visual
 ---
