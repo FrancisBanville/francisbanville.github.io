@@ -10,7 +10,8 @@ $eggplant: #5D4954;
 $gray: #64605f;
 $gray-light: #949799;
 $green: #157A37;
-$green-blue: #AFD4C4;
+$green-blue: #94B9AF;
+$green-light: #95D7AE;
 $pink: #FF5E5B;
 $purple: #AE8BD1;
 $red: #C2200A;
@@ -41,10 +42,13 @@ $code-block-bg: $cream; // code block background color
 // CSS rules
 
 h1 {
-  font-weight: 700;
+  color: $green-light;
+}
+
+h2 {
   color: $green-blue;
 }
 
 .navbar-logo {
-  max-height: 40px;
+  max-height: 38px;
 }

@@ -3,14 +3,14 @@ title: "Francis Banville"
 image: pictures/moi.jpg
 about: 
   template: trestles
-  image-shape: round
-  image-width: 15em
+  image-shape: rounded
+  image-width: 18em
   links:
-    - icon: fa-envelope
-      text: Email
+    - icon: envelope-fill
+      text: email
       href: mailto:francis.banville@umontreal.ca
     - icon: twitter
-      text: Twitter
+      text: twitter
       href: https://twitter.com/francisbanv
     - icon: github
       text: GitHub
@@ -18,31 +18,38 @@ about:
     - icon: linkedin
       text: Linkedin
       href: https://www.linkedin.com/in/francis-banville-890a91192/
-    - icon: fa-google
+    - icon: google
       text: Google Scholar
       href: https://scholar.google.fr/citations?user=jqagMewAAAAJ&hl=fr&oi=ao
 ---
 
 ## Hi there! Salut!
 
-I am a PhD candidate in ecology based in Montreal, Quebec (also known as the bonjour-hi city). I study complex systems such as food webs and other ecological networks using mathematical and probabilistic models. Specifically, I predict the structure of aquatic and terrestrial food webs on a global scale using entropy to better understand what drives trophic interactions at the community level. Considering that winter temperature can be as low as -30 °C in Montreal, my research interests in maximizing the entropy of ecological networks could stem from repressed feelings and desires for warmth.
+I am a PhD candidate in computational ecology based in Tiohtià:ke (Montreal, Quebec). I have a profound interest in understanding how living organisms interact with each other and how these relationships, good and bad, can alter our understanding of biodiversity. My love for numbers and computers have led me to develop mathematical models of food webs, which are complex networks of predators and prey. With my models, I aim to better understand the ecological drivers of species interactions, in both aquatic and terrestrial environments, and predict the structure of food webs on a global scale. 
 
-## Education
+I use he/him pronouns. 
 
--   **PhD in Biological Sciences** (ongoing) \| Université de Montréal and Université de Sherbrooke
+------------------------------------------------------------------------
 
--   **BSc in Biological Sciences** (2016-18) \| Université de Montréal
+## education
 
-## Experience
+{{< fa graduation-cap >}} PhD in Biological Sciences (2019 - present)\
+*Université de Montréal and Université de Sherbrooke*
 
--   Teaching assistant (2020 - present) \| Université de Montréal, Département de sciences biologiques (Biostatistics and Population dynamics courses)
+{{< fa graduation-cap >}} BSc in Biological Sciences (2016-18)\
+*Université de Montréal*
 
--   Programming mentor (2020-22) \| Institute for Data Valorization (IVADO), Data.Trek training program
+------------------------------------------------------------------------
 
--   Research assistant (2021) \| Group on Earth Observations Biodiversity Observation Network (GEO BON)
+## experience
 
-    \
+{{< fa apple-whole >}} teaching assistant (2020 - present)\          
+Biostatistics and Population dynamics courses\
+*Université de Montréal*
 
-    \
+{{< fa comments >}} symposium co-organizer (2023)\                       
+33rd symposium of biology, *Université de Montréal*
 
-    \
+{{< fa laptop >}} programming mentor (2020-22)\                 
+Data.Trek training program\
+*Institute for Data Valorization (IVADO)*

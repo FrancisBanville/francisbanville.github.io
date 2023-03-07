@@ -41,6 +41,8 @@ format:
     mainfont: Gelasio
     css: styles.css
     toc: true
+    code-background: true
+    code-fold: true
 
 editor: visual
 
