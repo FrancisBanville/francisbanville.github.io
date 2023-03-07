@@ -1,0 +1,8 @@
+---
+title: "blog"
+listing: 
+  contents: posts # all Quarto docs in the "posts" directory 
+  type: default # or `default` or `table`
+  sort: "date desc" # can also sort on more than one field
+  categories: true # allows you to sort posts by assigned categories 
+---

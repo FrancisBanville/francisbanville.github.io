@@ -15,7 +15,7 @@ website:
         text: home
       - projects.qmd
       - publications.qmd
-      - miscellaneous.qmd
+      - posts.qmd
     right: 
       - href: CV/CV_EN.pdf
         text: CV
