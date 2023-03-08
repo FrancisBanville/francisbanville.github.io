@@ -49,10 +49,22 @@ h2 {
   color: $green-blue;
 }
 
-.navbar-logo {
-  max-height: 38px;
+h3 {
+   font-size: 1.4rem;
 }
 
 b, strong {
    color: $pink;
+}
+
+p {
+   font-size: 0.9rem;
+}
+
+.navbar-logo {
+  max-height: 38px;
+}
+
+.listing-author {
+  font-size: 0.7rem;
 }
