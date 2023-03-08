@@ -1,0 +1,6 @@
+---
+title: "talks"
+editor: visual
+---
+
+This is a list of some of my talks.

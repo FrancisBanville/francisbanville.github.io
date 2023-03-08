@@ -2,7 +2,12 @@
   {
     "listing": "/posts.html",
     "items": [
-      "/posts/2023-03-07-digital-intelligence/index.html"
+      "/posts/2023-03-07-digital-intelligence/index.html",
+      "/posts/2023-03-07-forecasting-lcbd/index.html"
     ]
+  },
+  {
+    "listing": "/projects.html",
+    "items": []
   }
 ]

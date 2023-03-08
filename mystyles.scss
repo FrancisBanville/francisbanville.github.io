@@ -12,7 +12,7 @@ $gray-light: #949799;
 $green: #157A37;
 $green-blue: #94B9AF;
 $green-light: #95D7AE;
-$pink: #FF5E5B;
+$pink: #D16666;
 $purple: #AE8BD1;
 $red: #C2200A;
 $yellow: #EB9C0A;
@@ -28,7 +28,7 @@ $navbar-hl: $green-blue; // highlight color when hovering over navbar links
 $body-bg: $blue-dark; // page background 
 $body-color: $cream; // page text 
 $footer-bg: $cream; // footer 
-$link-color: $gray-light; // hyperlinks 
+$link-color: $purple; // hyperlinks 
 
 // Inline code
 $code-bg: $cream; // inline code background color
@@ -51,4 +51,8 @@ h2 {
 
 .navbar-logo {
   max-height: 38px;
+}
+
+b, strong {
+   color: $pink;
 }
