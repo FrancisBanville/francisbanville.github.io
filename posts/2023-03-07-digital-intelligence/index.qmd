@@ -9,7 +9,7 @@ author:
     affiliation-url: https://bio.umontreal.ca/accueil/
   - name: Marie-Paule Primeau
     affiliation: Université de Montréal
-date: 03-07-2023
+date: 11-17-2021
 categories: [networks, prediction] 
 citation: 
   url: https://francisbanville.github.io/posts/2023-03-07-digital-intelligence/ 
@@ -34,10 +34,9 @@ After a large number of simulations, we obtained the total number of predicted i
 
 Although the total number of interactions is itself informative, it is also linked to the way in which those interactions are organized within a given network. The next phase of my research project will therefore harness the results obtained thus far to more specifically predict the organizational structure of the links within a trophic network based on the number of species and the predicted number of interactions. The significant biodiversity loss resulting from environmental disasters may drastically alter the functioning of ecosystems by modifying the structure of their trophic networks. I therefore aim to use the results of my project to pave the way for better simulation of the consequences of climate change and natural-habitat destruction on trophic networks, so as to identify effective measures for limiting those harmful impacts.
 
+------------------------------------------------------------------------
 
----------------------------------------------------------------------
-
-This article was produced by me with the guidance of Marie-Paule Primeau, science communication advisor, as part of IVADO's “[My research project in 800 words](https://ivado.ca/en/my-research-project-in-800-words/)” initiative.
+This article was produced by me with the guidance of Marie-Paule Primeau, science communication advisor, as part of IVADO's "[My research project in 800 words](https://ivado.ca/en/my-research-project-in-800-words/)" initiative.
 
 Find some of my videos on IVADO's Youtube channel!
 

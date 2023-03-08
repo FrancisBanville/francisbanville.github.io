@@ -11,7 +11,7 @@ author:
     affiliation: Université de Montréal 
   - name: Samuel Provencher-Tardif 
     affiliation: Université de Montréal
-date: 03-07-2023
+date: 10-25-2021
 categories: [LCBD, biodiversity, forecasting] 
 citation: 
   url: https://francisbanville.github.io/posts/2023-03-07-forecasting-lcbd/ 
@@ -19,9 +19,9 @@ image: bird.jpg
 draft: false 
 ---
 
-We recently completed a two-month internship with The Group on Earth Observations Biodiversity Observation Network (GEO BON). Its headquarters having recently moved to Montreal, we immediately wanted to be part of this new chapter by contributing to a project as exciting as it is ambitious: an integrated biodiversity information system. GEO BON is indeed currently developing such an information system that would, among other things, provide real-time estimates of many biodiversity indicators at the planetary scale. Another purpose of GEO BON’s information system is to facilitate the conduction of biodiversity forecasts under different socioeconomic scenarios and enhance the plausibility and precision of these models.
+We recently completed a two-month internship with The Group on Earth Observations Biodiversity Observation Network (GEO BON). Its headquarters having recently moved to Montreal, we immediately wanted to be part of this new chapter by contributing to a project as exciting as it is ambitious: an integrated biodiversity information system. GEO BON is indeed currently developing such an information system that would, among other things, provide real-time estimates of many biodiversity indicators at the planetary scale. Another purpose of GEO BON's information system is to facilitate the conduction of biodiversity forecasts under different socioeconomic scenarios and enhance the plausibility and precision of these models.
 
-When implemented, this tool could be highly valuable for both the scientific community and environmental managers alike. Unlike our enthusiasm and excitement for the broader project, our contribution had to be finite (!). Our role, as interns, was to develop a forecasting model of local contributions to beta diversity (LCBD), a measure of a site’s ecological uniqueness in terms of species composition, of warbler species at the regional scale. Our work served as a proof of concept for GEO BON’s project and helped identify potential pitfalls in terms of data availability and computing resources.
+When implemented, this tool could be highly valuable for both the scientific community and environmental managers alike. Unlike our enthusiasm and excitement for the broader project, our contribution had to be finite (!). Our role, as interns, was to develop a forecasting model of local contributions to beta diversity (LCBD), a measure of a site's ecological uniqueness in terms of species composition, of warbler species at the regional scale. Our work served as a proof of concept for GEO BON's project and helped identify potential pitfalls in terms of data availability and computing resources.
 
 ![A warbler (not identified but identifiable), unaware of all the modeling we did on its taxon.](bird2.png)
 
@@ -29,14 +29,12 @@ Warbler species have the desirable property of being objectively beautiful. They
 
 ![Relative LCBD values in Quebec (top panels) and Colombia (bottom panels) in 2020 (left panels) and 2050 (center panels). The right panels show the difference in relative LCBD between the two years.](lcbd.png)
 
-We found a strong latitudinal gradient of relative LCBD differences between the two years in Quebec. Whereas warbler communities in southern Quebec are expected to become less unique (relative to all warbler communities, or grid cells, in Quebec), northern Quebec might house more unique communities in the upcoming years. We believe this might be the result of species migration to higher latitudes, as well as a homogenization of species composition in southern Quebec. Although this latitudinal gradient is not apparent in Colombia, we see how the Andes Mountains usually host more unique communities in both years, in part because of their higher species richness in comparison to surrounding areas. 
+We found a strong latitudinal gradient of relative LCBD differences between the two years in Quebec. Whereas warbler communities in southern Quebec are expected to become less unique (relative to all warbler communities, or grid cells, in Quebec), northern Quebec might house more unique communities in the upcoming years. We believe this might be the result of species migration to higher latitudes, as well as a homogenization of species composition in southern Quebec. Although this latitudinal gradient is not apparent in Colombia, we see how the Andes Mountains usually host more unique communities in both years, in part because of their higher species richness in comparison to surrounding areas.
 
-In general, our work is promising as it shows how different data sources can be combined to forecast biodiversity indicators (here, LCBD) at large spatial scales, an important first step in the development of GEO BON’s extensive biodiversity information system. Taking a step back, we think our internship was a good methodological exercise for us, as it allowed us to find, integrate, and manipulate different types of biological and environmental data. It also enabled us to develop new modeling skills, especially related to forecasting models, that we probably wouldn’t have developed in our mostly linear academic path.
+In general, our work is promising as it shows how different data sources can be combined to forecast biodiversity indicators (here, LCBD) at large spatial scales, an important first step in the development of GEO BON's extensive biodiversity information system. Taking a step back, we think our internship was a good methodological exercise for us, as it allowed us to find, integrate, and manipulate different types of biological and environmental data. It also enabled us to develop new modeling skills, especially related to forecasting models, that we probably wouldn't have developed in our mostly linear academic path.
 
 ------------------------------------------------------------------------
 
-*This piece of writing was the [first of two blog posts](https://bios2.usherbrooke.ca/2022/02/17/forecasting-biodiversity-geo-bon/) on our internship experience with GEO BON, which happened in the summer of 2021. The [second post](https://bios2.usherbrooke.ca/2022/03/03/forecasting-biodiversity-data-availability/) discussed in more depth our learning experience regarding data availability. With this series of articles, we hoped that we sparked your enthusiasm in pursuing such a science-driven internship!* 
+*This piece of writing was the [first of two blog posts](https://bios2.usherbrooke.ca/2022/02/17/forecasting-biodiversity-geo-bon/) on our internship experience with GEO BON, which happened in the summer of 2021. The [second post](https://bios2.usherbrooke.ca/2022/03/03/forecasting-biodiversity-data-availability/) discussed in more depth our learning experience regarding data availability. With this series of articles, we hoped that we sparked your enthusiasm in pursuing such a science-driven internship!*
 
-*Francis Banville, Gabriel Dansereau and Samuel Provencher-Tardif* 
-
-*Written on October 25th, 2021*
+*Francis Banville, Gabriel Dansereau and Samuel Provencher-Tardif*
