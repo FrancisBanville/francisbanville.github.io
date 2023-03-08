@@ -5,6 +5,7 @@
 
 // Colors
 $blue-dark: #002b36;
+$blue-air: #4C86A8;
 $cream: #F0F7F4;
 $eggplant: #5D4954; 
 $gray: #64605f;
@@ -22,7 +23,7 @@ $my-font-size: 25px;
 $my-width: 500px;
 
 // Base document colors
-$navbar-bg: $green; // navbar
+$navbar-bg: $blue-air; // navbar
 $navbar-fg: $cream; // navbar foreground elements
 $navbar-hl: $green-blue; // highlight color when hovering over navbar links
 $body-bg: $blue-dark; // page background 
@@ -61,10 +62,15 @@ p {
    font-size: 0.9rem;
 }
 
+.listing-author {
+  font-size: 0.7rem;
+}
+
+.menu-text {
+  font-size: 1rem;
+}
+
 .navbar-logo {
   max-height: 38px;
 }
 
-.listing-author {
-  font-size: 0.7rem;
-}
