@@ -7,35 +7,35 @@ editor: source
 ##### 8. Mismatch between IUCN range maps and species interactions data illustrated using the Serengeti food web
 
 ::: {.column-margin}
-![](pictures/figures/serval-loss.png){height=250, width=250}
+[![](pictures/figures/serval-loss.png){height=200, width=200}](https://doi.org/10.7717/peerj.14620)
 :::
 
 ::: {.column-margin}
-![](pictures/figures/tweets.png){height=250, width=250}
+[![](pictures/figures/tweets.png){height=200, width=200}](https://doi.org/10.1371/journal.pcbi.1010372)
 :::
 
 ::: {.column-margin}
-![](pictures/figures/transfer-learning.png){height=250, width=250}
+[![](pictures/figures/transfer-learning.png){height=200, width=200}](https://doi.org/10.1111/2041-210X.13835)
 :::
 
 ::: {.column-margin}
-![](pictures/figures/network-prediction.png){height=250, width=250}
+[![](pictures/figures/network-prediction.png){height=200, width=200}](https://doi.org/10.1098/rstb.2021.0063)
 :::
 
 ::: {.column-margin}
-![](pictures/figures/raccoon.png){height=250, width=250}
+[![](pictures/figures/raccoon.png){height=200, width=200}](https://kids.frontiersin.org/articles/10.3389/frym.2021.595275)
 :::
 
 ::: {.column-margin}
-![](pictures/figures/mangal.png){height=250, width=250}
+[![](pictures/figures/mangal.png){height=200, width=200}](https://doi.org/10.21105/joss.02721)
 :::
 
 ::: {.column-margin}
-![](pictures/figures/cup.png){height=250, width=250}
+[![](pictures/figures/cup.png){height=200, width=200}](https://doi.org/10.5281/zenodo.4022518)
 :::
 
 ::: {.column-margin}
-![](pictures/figures/links.png){height=250, width=250}
+[![](pictures/figures/links.png){height=200, width=200}](https://doi.org/10.1016/j.patter.2020.100079)
 :::
 
 Higino, G.T., **Banville, F.**, Dansereau, G., Muñoz, N.R.F., Windsor, F., & Poisot, T. (2023)\
@@ -96,11 +96,11 @@ MacDonald, A., **Banville, F.**, & Poisot, T. (2020)\
 ##### 2. What constrains food webs? A maximum entropy framework for predicting their structure with minimal biases
 
 ::: {.column-margin}
-![](pictures/figures/degree-dist.png){height=250, width=250}
+[![](pictures/figures/degree-dist.png){height=200, width=200}](https://arxiv.org/abs/2210.03190)
 :::
 
 ::: {.column-margin}
-![](pictures/figures/transfer-learning2.png){height=250, width=250}
+[![](pictures/figures/transfer-learning2.png){height=200, width=200}](https://ecoevorxiv.org/repository/view/3823/)
 :::
 
 **Banville, F.**, Gravel, D., & Poisot, T. (2022)\
