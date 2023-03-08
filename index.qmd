@@ -1,6 +1,7 @@
 ---
 title: "Francis Banville"
 image: pictures/moi.jpg
+editor: source
 about: 
   template: trestles
   image-shape: rounded
@@ -34,21 +35,22 @@ I use he/him pronouns.
 ## education
 
 {{< fa graduation-cap >}} PhD in Biological Sciences (2019-now)\
-*Université de Montréal and Université de Sherbrooke*
+Université de Montréal and Université de Sherbrooke
 
 {{< fa graduation-cap >}} BSc in Biological Sciences (2016-18)\
-*Université de Montréal*
+Université de Montréal
 
 ------------------------------------------------------------------------
 
 ## experience
 
-{{< fa apple-whole >}} teaching assistant (2020-now)\
+{{< fa apple-whole >}} teaching assistant (since 2020)\
 Biostatistics and Population dynamics courses\
 *Université de Montréal*
 
 {{< fa comments >}} symposium co-organizer (2023)\
-33rd symposium of biology, *Université de Montréal*
+33rd symposium of biology\
+*Université de Montréal*
 
 {{< fa laptop >}} programming mentor (2020-22)\
 Data.Trek training program\
@@ -56,18 +58,27 @@ Data.Trek training program\
 
 ------------------------------------------------------------------------
 
-## affiliations
+## affiliations 
 
-{{< fa circle-nodes >}} [Quantitative and Computational Ecology Lab](https://poisotlab.io/) (Université de Montréal) 
+{{< fa circle-nodes >}} Quantitative and Computational Ecology Lab\
+*Université de Montréal*\
+[Website](https://poisotlab.io/),
+[Twitter](https://twitter.com/poisotlab),
+[GitHub](https://github.com/PoisotLab)
 
-{{< fa tree >}} [Integrative Ecology Lab](https://ielab.recherche.usherbrooke.ca/) (Université de Sherbrooke)
+{{< fa tree >}} Integrative Ecology Lab\
+*Université de Sherbrooke*\
+[Website](https://ielab.recherche.usherbrooke.ca/)
 
-{{< fa calculator >}} [Computational Biodiversity Science and Services (BIOS²) program](https://bios2.usherbrooke.ca/#)
+{{< fa laptop >}} Institute for Data Valorization (IVADO)\
+[Website](https://ivado.ca/en/),
+[Twitter](https://twitter.com/IVADO_Qc)
 
-{{< fa frog >}} [Quebec Centre for Biodiversity Science](https://qcbs.ca/)
+{{< fa calculator >}} Computational Biodiversity Science & Services program\
+(BIOS²)\
+[Website](https://bios2.usherbrooke.ca/),
+[Twitter](https://twitter.com/_bios2)
 
-
-
-
-
-
+{{< fa frog >}} Quebec Centre for Biodiversity Science (QCBS)\
+[Website](https://qcbs.ca/),
+[Twitter](https://twitter.com/csbq_qcbs)

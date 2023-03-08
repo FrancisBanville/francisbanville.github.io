@@ -1,7 +1,7 @@
 ---
-editor: visual
+editor: source
 ---
 
 # About
 
-A little bit about myself. 
+A little bit about myself.

@@ -15,6 +15,7 @@ citation:
   url: https://francisbanville.github.io/posts/2023-03-07-digital-intelligence/ 
 image: fox.png
 draft: false 
+editor: source
 ---
 
 ![](fox.png){fig-align="center"}

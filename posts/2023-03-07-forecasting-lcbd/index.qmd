@@ -17,6 +17,7 @@ citation:
   url: https://francisbanville.github.io/posts/2023-03-07-forecasting-lcbd/ 
 image: bird.jpg
 draft: false 
+editor: source
 ---
 
 We recently completed a two-month internship with The Group on Earth Observations Biodiversity Observation Network (GEO BON). Its headquarters having recently moved to Montreal, we immediately wanted to be part of this new chapter by contributing to a project as exciting as it is ambitious: an integrated biodiversity information system. GEO BON is indeed currently developing such an information system that would, among other things, provide real-time estimates of many biodiversity indicators at the planetary scale. Another purpose of GEO BON's information system is to facilitate the conduction of biodiversity forecasts under different socioeconomic scenarios and enhance the plausibility and precision of these models.
