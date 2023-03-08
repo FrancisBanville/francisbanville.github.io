@@ -1,0 +1,7 @@
+---
+editor: visual
+---
+
+# About
+
+A little bit about myself. 

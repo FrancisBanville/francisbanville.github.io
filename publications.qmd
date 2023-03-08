@@ -1,20 +1,117 @@
 ---
-title: "publications"
 editor: visual
 ---
 
-1.  Higino, G. T., **Banville, F.**, Dansereau, G., Muñoz, N. R. F., Windsor, F., & Poisot, T. (2023). Mismatch between IUCN range maps and species interactions data illustrated using the Serengeti food web. *PeerJ*, *11*, e14620. https://doi.org/10.7717/peerj.14620 ([article](https://doi.org/10.7717/peerj.14620), [repo](https://github.com/graciellehigino/ms_range_interactions))
+# Publications
 
-2.  Lawlor, J., **Banville, F.**, Forero-Muñoz, N.-R., Hébert, K., Martínez-Lanfranco, J. A., Rogy, P., & MacDonald, A. A. M. (2022). Ten simple rules for teaching yourself R. *PLOS Computational Biology*, *18*(9), e1010372. https://doi.org/10.1371/journal.pcbi.1010372 ([article](https://doi.org/10.1371/journal.pcbi.1010372))
+##### 8. Mismatch between IUCN range maps and species interactions data illustrated using the Serengeti food web
 
-3.  Strydom, T., Bouskila, S., **Banville, F.**, Barros, C., Caron, D., Farrell, M. J., Fortin, M.-J., Hemming, V., Mercier, B., Pollock, L. J., Runghen, R., Dalla Riva, G. V., & Poisot, T. (2022). Food web reconstruction through phylogenetic transfer of low-rank network representation. *Methods in Ecology and Evolution*, *13*(12), 2838‑2849. https://doi.org/10.1111/2041-210X.13835 ([article](https://doi.org/10.1111/2041-210X.13835), [code repo](https://github.com/PoisotLab/MetawebTransferLearning), [paper repo](https://github.com/PoisotLab/ms_metaweb_transfer))
+::: {.column-margin}
+![](pictures/figures/serval-loss.png){height=250, width=250}
+:::
 
-4.  Strydom, T., Catchen, M. D., **Banville, F.**, Caron, D., Dansereau, G., Desjardins-Proulx, P., Forero-Muñoz, N. R., Higino, G., Mercier, B., Gonzalez, A., Gravel, D., Pollock, L., & Poisot, T. (2021). A roadmap towards predicting species interaction networks (across space and time). *Philosophical Transactions of the Royal Society B: Biological Sciences*, *376*(1837), 20210063.https://doi.org/10.1098/rstb.2021.0063 ([article](https://doi.org/10.1098/rstb.2021.0063), [code repo](https://github.com/PoisotLab/NetworkLearningIllustration), [paper repo](https://github.com/PoisotLab/ms_network_prediction))
+::: {.column-margin}
+![](pictures/figures/tweets.png){height=250, width=250}
+:::
 
-5.  Higino G, Forero N, **Banville, F**, Dansereau, G. and Poisot, T. (2021). Computers Can Help us Find Raccoons and Other Living Creatures. *Front. Young Minds*. *9*:595275. doi: 10.3389/frym.2021.595275 ([article](doi:%2010.3389/frym.2021.595275), [repo](https://github.com/PoisotLab/ms_frontiers_kids))
+::: {.column-margin}
+![](pictures/figures/transfer-learning.png){height=250, width=250}
+:::
 
-6.  **Banville, F.**, Vissault, S., & Poisot, T. (2021). Mangal.jl and EcologicalNetworks.jl : Two complementary packages for analyzing ecological networks in Julia. *Journal of Open Source Software*, *6*(61), 2721. https://doi.org/10.21105/joss.02721 ([article](https://doi.org/10.21105/joss.02721), [repo](https://github.com/PoisotLab/EcologicalNetworks.jl/tree/joss-article-review1))
+::: {.column-margin}
+![](pictures/figures/network-prediction.png){height=250, width=250}
+:::
 
-7.  Dansereau, G., **Banville, F.**, Basque, E., MacDonald, A., & Poisot, T. (2020). \[Re\] Chaos in a Three-Species Food Chain. *ReScience C*, *6*(3), #5. https://doi.org/10.5281/zenodo.4022518 ([article](https://doi.org/10.5281/zenodo.4022518), [repo](https://github.com/BIO6032/2019_replication_HastingsPowell_1991/tree/v1.0.0))
+::: {.column-margin}
+![](pictures/figures/raccoon.png){height=250, width=250}
+:::
 
-8.  MacDonald, A., **Banville, F.**, & Poisot, T. (2020). Revisiting the Links-Species Scaling Relationship in Food Webs. *Patterns*, *0*(0). https://doi.org/10.1016/j.patter.2020.100079 ([article](https://doi.org/10.1016/j.patter.2020.100079), [repo](https://github.com/PoisotLab/ms_straight_lines))
+::: {.column-margin}
+![](pictures/figures/mangal.png){height=250, width=250}
+:::
+
+::: {.column-margin}
+![](pictures/figures/cup.png){height=250, width=250}
+:::
+
+::: {.column-margin}
+![](pictures/figures/links.png){height=250, width=250}
+:::
+
+Higino, G.T., **Banville, F.**, Dansereau, G., Muñoz, N.R.F., Windsor, F., & Poisot, T. (2023)\
+*PeerJ*\
+[Article](https://doi.org/10.7717/peerj.14620), [Repo](https://github.com/graciellehigino/ms_range_interactions)
+
+##### 7. Ten simple rules for teaching yourself R
+
+Lawlor, J., **Banville, F.**, Forero-Muñoz, N.R.F, Hébert, K., Martínez-Lanfranco, J.A., Rogy, P., & MacDonald, A.A.M. (2022)\
+*PLOS Computational Biology*\
+[Article](https://doi.org/10.1371/journal.pcbi.1010372)
+
+##### 6. Food web reconstruction through phylogenetic transfer of low-rank network representation
+
+Strydom, T., Bouskila, S., **Banville, F.**, Barros, C., Caron, D., Farrell, M.J., Fortin, M.-J., Hemming, V., Mercier, B., Pollock, L.J., Runghen, R., Dalla Riva, G.V., & Poisot, T. (2022)\
+*Methods in Ecology and Evolution*\
+[Article](https://doi.org/10.1111/2041-210X.13835),
+[Code repo](https://github.com/PoisotLab/MetawebTransferLearning),
+[Paper repo](https://github.com/PoisotLab/ms_metaweb_transfer)
+
+##### 5. A roadmap towards predicting species interaction networks (across space and time)
+
+Strydom, T., Catchen, M.D., **Banville, F.**, Caron, D., Dansereau, G., Desjardins-Proulx, P., Forero-Muñoz, N.R., Higino, G., Mercier, B., Gonzalez, A., Gravel, D., Pollock, L., & Poisot, T. (2021)\
+*Philosophical Transactions of the Royal Society B: Biological Sciences*\
+[Article](https://doi.org/10.1098/rstb.2021.0063),
+[Code repo](https://github.com/PoisotLab/NetworkLearningIllustration),
+[Paper repo](https://github.com/PoisotLab/ms_network_prediction)
+
+##### 4. Computers Can Help us Find Raccoons and Other Living Creatures
+
+Higino G., Forero N., **Banville, F.**, Dansereau, G., & Poisot, T. (2021)\
+*Front. Young Minds*\
+[Article](https://kids.frontiersin.org/articles/10.3389/frym.2021.595275), [Repo](https://github.com/PoisotLab/ms_frontiers_kids)
+
+##### 3. Mangal.jl and EcologicalNetworks.jl : Two complementary packages for analyzing ecological networks in Julia
+
+**Banville, F.**, Vissault, S., & Poisot, T. (2021)\
+*Journal of Open Source Software*\
+[Article](https://doi.org/10.21105/joss.02721), [Repo](https://github.com/PoisotLab/EcologicalNetworks.jl/tree/joss-article-review1),
+[Mangal.jl](https://github.com/PoisotLab/Mangal.jl),
+[EcologicalNetworks.jl](https://github.com/PoisotLab/EcologicalNetworks.jl)
+
+##### 2. \[Re\] Chaos in a Three-Species Food Chain
+
+Dansereau, G., **Banville, F.**, Basque, E., MacDonald, A., & Poisot, T. (2020)\
+*ReScience C*\
+[Article](https://doi.org/10.5281/zenodo.4022518), [Repo](https://github.com/BIO6032/2019_replication_HastingsPowell_1991/tree/v1.0.0)
+
+##### 1. Revisiting the Links-Species Scaling Relationship in Food Webs
+
+MacDonald, A., **Banville, F.**, & Poisot, T. (2020)\
+*Patterns*\
+[Article](https://doi.org/10.1016/j.patter.2020.100079), [Repo](https://github.com/PoisotLab/ms_straight_lines)
+
+
+# Preprints
+
+##### 2. What constrains food webs? A maximum entropy framework for predicting their structure with minimal biases
+
+::: {.column-margin}
+![](pictures/figures/degree-dist.png){height=250, width=250}
+:::
+
+::: {.column-margin}
+![](pictures/figures/transfer-learning2.png){height=250, width=250}
+:::
+
+**Banville, F.**, Gravel, D., & Poisot, T. (2022)\
+*ArXiv*\
+[Preprint](https://arxiv.org/abs/2210.03190),
+[Repo](https://github.com/FrancisBanville/ms_maxent_networks)
+
+##### 1. Graph embedding and transfer learning can help predict potential species interaction networks despite data limitations
+
+Strydom, T., Bouskila, S., **Banville, F.**, Barros, C., Caron, D., Farrell, M.J., Fortin, M.-J., Hemming, V., Mercier, B., & Pollock, L.J. (2022)\
+*EcoEvoRxiv*\
+[Preprint](https://ecoevorxiv.org/repository/view/3823/),
+[Repo](https://github.com/PoisotLab/ms_metaweb_perspectives)
+

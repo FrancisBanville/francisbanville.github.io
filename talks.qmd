@@ -1,6 +1,7 @@
 ---
-title: "talks"
 editor: visual
 ---
+
+# Contributed talks
 
 This is a list of some of my talks.

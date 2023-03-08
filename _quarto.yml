@@ -13,11 +13,18 @@ website:
     left:
       - href: index.qmd
         text: home
-      - projects.qmd
-      - publications.qmd
-      - talks.qmd
-      - posts.qmd
-      - resources.qmd
+      - href: about.qmd
+        text: about
+      - href: projects.qmd
+        text: projects
+      - href: publications.qmd
+        text: publications
+      - href: talks.qmd
+        text: talks
+      - href: posts.qmd
+        text: blog
+      - href: resources.qmd
+        text: resources
     right: 
       - href: CV/CV_EN.pdf
         text: CV

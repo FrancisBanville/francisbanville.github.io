@@ -1,5 +1,4 @@
 ---
-title: "projects"
 listing: 
   contents: projects # all Quarto docs in the "posts" directory 
   type: grid # or `default` or `table`

@@ -1,5 +1,4 @@
 ---
-title: "blog"
 listing: 
   contents: posts # all Quarto docs in the "posts" directory 
   type: default # or `default` or `table`

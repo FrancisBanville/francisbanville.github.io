@@ -7,16 +7,11 @@
 $blue-dark: #002b36;
 $blue-air: #4C86A8;
 $cream: #F0F7F4;
-$eggplant: #5D4954; 
 $gray: #64605f;
-$gray-light: #949799;
-$green: #157A37;
 $green-blue: #94B9AF;
-$green-light: #95D7AE;
-$pink: #D16666;
 $purple: #AE8BD1;
-$red: #C2200A;
-$yellow: #EB9C0A;
+$yellow: #EEB902;
+$white-smoke: #F7F4F3; 
 
 // Sizes
 $my-font-size: 25px;
@@ -43,7 +38,7 @@ $code-block-bg: $cream; // code block background color
 // CSS rules
 
 h1 {
-  color: $green-light;
+  color: $white-smoke;
 }
 
 h2 {
@@ -55,7 +50,7 @@ h3 {
 }
 
 b, strong {
-   color: $pink;
+   color: $yellow;
 }
 
 p {

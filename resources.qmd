@@ -1,6 +1,7 @@
 ---
-title: "resources"
 editor: visual
 ---
+
+# Resources
 
 This is a list of resources that I find useful.

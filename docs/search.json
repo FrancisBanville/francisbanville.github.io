@@ -23,14 +23,14 @@
   {
     "objectID": "projects.html",
     "href": "projects.html",
-    "title": "projects",
+    "title": "Francis Banville",
     "section": "",
     "text": "No matching items"
   },
   {
     "objectID": "posts.html",
     "href": "posts.html",
-    "title": "blog",
+    "title": "Francis Banville",
     "section": "",
     "text": "Digital intelligence to… Predict links between predators and prey\n\n\n\n\n\n\n\nnetworks\n\n\nprediction\n\n\n\n\nMy research project in 800 words (IVADO)\n\n\n\n\n\n\nNov 17, 2021\n\n\nFrancis Banville, Marie-Paule Primeau\n\n\n\n\n\n\n  \n\n\n\n\nForecasting biodiversity: Our internship experience with GEO BON\n\n\n\n\n\n\n\nLCBD\n\n\nbiodiversity\n\n\nforecasting\n\n\n\n\nBIOS² blog post\n\n\n\n\n\n\nOct 25, 2021\n\n\nFrancis Banville, Gabriel Dansereau, Samuel Provencher-Tardif\n\n\n\n\n\n\nNo matching items"
   },
@@ -44,9 +44,9 @@
   {
     "objectID": "publications.html",
     "href": "publications.html",
-    "title": "publications",
+    "title": "Francis Banville",
     "section": "",
-    "text": "Higino, G. T., Banville, F., Dansereau, G., Muñoz, N. R. F., Windsor, F., & Poisot, T. (2023). Mismatch between IUCN range maps and species interactions data illustrated using the Serengeti food web. PeerJ, 11, e14620. https://doi.org/10.7717/peerj.14620 (article, repo)\nLawlor, J., Banville, F., Forero-Muñoz, N.-R., Hébert, K., Martínez-Lanfranco, J. A., Rogy, P., & MacDonald, A. A. M. (2022). Ten simple rules for teaching yourself R. PLOS Computational Biology, 18(9), e1010372. https://doi.org/10.1371/journal.pcbi.1010372 (article)\nStrydom, T., Bouskila, S., Banville, F., Barros, C., Caron, D., Farrell, M. J., Fortin, M.-J., Hemming, V., Mercier, B., Pollock, L. J., Runghen, R., Dalla Riva, G. V., & Poisot, T. (2022). Food web reconstruction through phylogenetic transfer of low-rank network representation. Methods in Ecology and Evolution, 13(12), 2838‑2849. https://doi.org/10.1111/2041-210X.13835 (article, code repo, paper repo)\nStrydom, T., Catchen, M. D., Banville, F., Caron, D., Dansereau, G., Desjardins-Proulx, P., Forero-Muñoz, N. R., Higino, G., Mercier, B., Gonzalez, A., Gravel, D., Pollock, L., & Poisot, T. (2021). A roadmap towards predicting species interaction networks (across space and time). Philosophical Transactions of the Royal Society B: Biological Sciences, 376(1837), 20210063.https://doi.org/10.1098/rstb.2021.0063 (article, code repo, paper repo)\nHigino G, Forero N, Banville, F, Dansereau, G. and Poisot, T. (2021). Computers Can Help us Find Raccoons and Other Living Creatures. Front. Young Minds. 9:595275. doi: 10.3389/frym.2021.595275 (article, repo)\nBanville, F., Vissault, S., & Poisot, T. (2021). Mangal.jl and EcologicalNetworks.jl : Two complementary packages for analyzing ecological networks in Julia. Journal of Open Source Software, 6(61), 2721. https://doi.org/10.21105/joss.02721 (article, repo)\nDansereau, G., Banville, F., Basque, E., MacDonald, A., & Poisot, T. (2020). [Re] Chaos in a Three-Species Food Chain. ReScience C, 6(3), #5. https://doi.org/10.5281/zenodo.4022518 (article, repo)\nMacDonald, A., Banville, F., & Poisot, T. (2020). Revisiting the Links-Species Scaling Relationship in Food Webs. Patterns, 0(0). https://doi.org/10.1016/j.patter.2020.100079 (article, repo)"
+    "text": "Publications\n\n8. Mismatch between IUCN range maps and species interactions data illustrated using the Serengeti food web\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nHigino, G.T., Banville, F., Dansereau, G., Muñoz, N.R.F., Windsor, F., & Poisot, T. (2023)\nPeerJ\nArticle, Repo\n\n\n7. Ten simple rules for teaching yourself R\nLawlor, J., Banville, F., Forero-Muñoz, N.R.F, Hébert, K., Martínez-Lanfranco, J.A., Rogy, P., & MacDonald, A.A.M. (2022)\nPLOS Computational Biology\nArticle\n\n\n6. Food web reconstruction through phylogenetic transfer of low-rank network representation\nStrydom, T., Bouskila, S., Banville, F., Barros, C., Caron, D., Farrell, M.J., Fortin, M.-J., Hemming, V., Mercier, B., Pollock, L.J., Runghen, R., Dalla Riva, G.V., & Poisot, T. (2022)\nMethods in Ecology and Evolution\nArticle, Code repo, Paper repo\n\n\n5. A roadmap towards predicting species interaction networks (across space and time)\nStrydom, T., Catchen, M.D., Banville, F., Caron, D., Dansereau, G., Desjardins-Proulx, P., Forero-Muñoz, N.R., Higino, G., Mercier, B., Gonzalez, A., Gravel, D., Pollock, L., & Poisot, T. (2021)\nPhilosophical Transactions of the Royal Society B: Biological Sciences\nArticle, Code repo, Paper repo\n\n\n4. Computers Can Help us Find Raccoons and Other Living Creatures\nHigino G., Forero N., Banville, F., Dansereau, G., & Poisot, T. (2021)\nFront. Young Minds\nArticle, Repo\n\n\n3. Mangal.jl and EcologicalNetworks.jl : Two complementary packages for analyzing ecological networks in Julia\nBanville, F., Vissault, S., & Poisot, T. (2021)\nJournal of Open Source Software\nArticle, Repo, Mangal.jl, EcologicalNetworks.jl\n\n\n2. [Re] Chaos in a Three-Species Food Chain\nDansereau, G., Banville, F., Basque, E., MacDonald, A., & Poisot, T. (2020)\nReScience C\nArticle, Repo\n\n\n1. Revisiting the Links-Species Scaling Relationship in Food Webs\nMacDonald, A., Banville, F., & Poisot, T. (2020)\nPatterns\nArticle, Repo\n\n\n\nPreprints\n\n2. What constrains food webs? A maximum entropy framework for predicting their structure with minimal biases\n\n\n\n\n\n\nBanville, F., Gravel, D., & Poisot, T. (2022)\nArXiv\nPreprint, Repo\n\n\n1. Graph embedding and transfer learning can help predict potential species interaction networks despite data limitations\nStrydom, T., Bouskila, S., Banville, F., Barros, C., Caron, D., Farrell, M.J., Fortin, M.-J., Hemming, V., Mercier, B., & Pollock, L.J. (2022)\nEcoEvoRxiv\nPreprint, Repo"
   },
   {
     "objectID": "index.html#affiliations",
@@ -58,9 +58,9 @@
   {
     "objectID": "resources.html",
     "href": "resources.html",
-    "title": "resources",
+    "title": "Francis Banville",
     "section": "",
-    "text": "This is a list of resources that I find useful."
+    "text": "Resources\nThis is a list of resources that I find useful."
   },
   {
     "objectID": "posts/2023-03-07-forecasting-lcbd/index.html",
@@ -72,8 +72,15 @@
   {
     "objectID": "talks.html",
     "href": "talks.html",
-    "title": "talks",
+    "title": "Francis Banville",
     "section": "",
-    "text": "This is a list of some of my talks."
+    "text": "Contributed talks\nThis is a list of some of my talks."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Francis Banville",
+    "section": "",
+    "text": "About\nA little bit about myself."
   }
 ]
