@@ -50,11 +50,13 @@ Biostatistics and Population dynamics courses\
 
 {{< fa comments >}} symposium co-organizer (2023)\
 33rd symposium of biology\
-*Université de Montréal*
+*Université de Montréal*\
+[Website](https://event.fourwaves.com/fr/udemsymposiumbiologie/pages?fbclid=IwAR3DF4jIE8DX8Xofqoclz3JFchXsTpClqYbCJ8flQCdrwESUrQOj08HDZ3Y)
 
 {{< fa laptop >}} programming mentor (2020-22)\
 Data.Trek training program\
-*Institute for Data Valorization (IVADO)*
+*Institute for Data Valorization (IVADO)*\
+[Website](https://ivado.ca/en/events/the-100-days-of-data-trek-challenge-2/)
 
 ------------------------------------------------------------------------
 
