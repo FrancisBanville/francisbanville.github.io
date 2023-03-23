@@ -37,8 +37,14 @@ I use he/him pronouns.
 {{< fa graduation-cap >}} PhD in Biological Sciences (2019-now)\
 Université de Montréal and Université de Sherbrooke
 
+{{< fa graduation-cap >}} Cert. in Synthetic and
+Collaborative Science (2022)\
+Living Data Project, CIEE\
+[website](https://www.ciee-icee.ca/ldp.html)
+
 {{< fa graduation-cap >}} BSc in Biological Sciences (2016-18)\
 Université de Montréal
+
 
 ------------------------------------------------------------------------
 
@@ -51,12 +57,12 @@ Biostatistics and Population dynamics courses\
 {{< fa comments >}} symposium co-organizer (2023)\
 33rd symposium of biology\
 *Université de Montréal*\
-[Website](https://event.fourwaves.com/fr/udemsymposiumbiologie/pages?fbclid=IwAR3DF4jIE8DX8Xofqoclz3JFchXsTpClqYbCJ8flQCdrwESUrQOj08HDZ3Y)
+[website](https://event.fourwaves.com/fr/udemsymposiumbiologie/pages?fbclid=IwAR3DF4jIE8DX8Xofqoclz3JFchXsTpClqYbCJ8flQCdrwESUrQOj08HDZ3Y)
 
 {{< fa laptop >}} programming mentor (2020-22)\
 Data.Trek training program\
 *Institute for Data Valorization (IVADO)*\
-[Website](https://ivado.ca/en/events/the-100-days-of-data-trek-challenge-2/)
+[website](https://ivado.ca/en/events/the-100-days-of-data-trek-challenge-2/)
 
 ------------------------------------------------------------------------
 
@@ -64,23 +70,23 @@ Data.Trek training program\
 
 {{< fa circle-nodes >}} Quantitative and Computational Ecology Lab\
 *Université de Montréal*\
-[Website](https://poisotlab.io/),
+[website](https://poisotlab.io/),
 [Twitter](https://twitter.com/poisotlab),
 [GitHub](https://github.com/PoisotLab)
 
 {{< fa tree >}} Integrative Ecology Lab\
 *Université de Sherbrooke*\
-[Website](https://ielab.recherche.usherbrooke.ca/)
+[website](https://ielab.recherche.usherbrooke.ca/)
 
 {{< fa laptop >}} Institute for Data Valorization (IVADO)\
-[Website](https://ivado.ca/en/),
+[website](https://ivado.ca/en/),
 [Twitter](https://twitter.com/IVADO_Qc)
 
 {{< fa calculator >}} Computational Biodiversity Science & Services program\
 (BIOS²)\
-[Website](https://bios2.usherbrooke.ca/),
+[website](https://bios2.usherbrooke.ca/),
 [Twitter](https://twitter.com/_bios2)
 
 {{< fa frog >}} Quebec Centre for Biodiversity Science (QCBS)\
-[Website](https://qcbs.ca/),
+[website](https://qcbs.ca/),
 [Twitter](https://twitter.com/csbq_qcbs)
