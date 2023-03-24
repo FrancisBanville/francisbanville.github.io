@@ -5,7 +5,9 @@
 
 // Colors
 $blue-dark: #002b36;
+$blue-colombia: #ABC8D9;
 $blue-air: #4C86A8;
+$brown: #271C16; 
 $cream: #F0F7F4;
 $gray: #64605f;
 $green-blue: #94B9AF;
@@ -20,7 +22,7 @@ $my-width: 500px;
 // Base document colors
 $navbar-bg: $blue-air; // navbar
 $navbar-fg: $cream; // navbar foreground elements
-$navbar-hl: $green-blue; // highlight color when hovering over navbar links
+$navbar-hl: $brown; // highlight color when hovering over navbar links
 $body-bg: $blue-dark; // page background 
 $body-color: $cream; // page text 
 $footer-bg: $cream; // footer 
@@ -55,6 +57,11 @@ b, strong {
 
 p {
    font-size: 0.9rem;
+}
+
+.figure-caption {
+  color: $blue-colombia;
+  font-size: 0.8rem;
 }
 
 .listing-author {
