@@ -2,35 +2,35 @@
 
 // Fonts
 @import url('https://fonts.googleapis.com/css2?family=Gelasio&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Sail&display=swap');
 
 // Colors
-$blue-dark: #002b36;
-$blue-colombia: #ABC8D9;
-$blue-air: #4C86A8;
-$brown: #271C16; 
+$black: #222222;
+$blue: #0181b0;
+$blue-picton: #01B3F4;
 $cream: #F0F7F4;
-$gray: #64605f;
-$green-blue: #94B9AF;
-$purple: #AE8BD1;
-$yellow: #EEB902;
-$white-smoke: #F7F4F3; 
+$green: #81C14B;
+$green-cream: #D7EAE1;
+$lime: #C3F73A;
+$yellow: #D08739;
+
 
 // Sizes
 $my-font-size: 25px;
 $my-width: 500px;
 
 // Base document colors
-$navbar-bg: $blue-air; // navbar
+$navbar-bg: $blue; // navbar
 $navbar-fg: $cream; // navbar foreground elements
-$navbar-hl: $brown; // highlight color when hovering over navbar links
-$body-bg: $blue-dark; // page background 
+$navbar-hl: $black; // highlight color when hovering over navbar links
+$body-bg: $black; // page background 
 $body-color: $cream; // page text 
 $footer-bg: $cream; // footer 
-$link-color: $purple; // hyperlinks 
+$link-color: $blue-picton; // hyperlinks 
 
 // Inline code
 $code-bg: $cream; // inline code background color
-$code-color: $purple; // inline code text color
+$code-color: $green-cream; // inline code text color
 
 // Code blocks
 $code-block-bg: $cream; // code block background color
@@ -40,11 +40,13 @@ $code-block-bg: $cream; // code block background color
 // CSS rules
 
 h1 {
-  color: $white-smoke;
+  color: $green;
+  font-family: sail;
+  font-size: 2.5rem;
 }
 
 h2 {
-  color: $green-blue;
+  color: $green;
 }
 
 h3 {
@@ -60,7 +62,7 @@ p {
 }
 
 .figure-caption {
-  color: $blue-colombia;
+  color: $green-cream;
   font-size: 0.8rem;
 }
 
@@ -69,10 +71,11 @@ p {
 }
 
 .menu-text {
-  font-size: 1rem;
+  font-size: 1.5rem;
+  font-family: sail;
 }
 
 .navbar-logo {
-  max-height: 38px;
+  max-height: 80px;
 }
 

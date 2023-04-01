@@ -7,7 +7,7 @@ website:
   favicon: pictures/icons/herbivore.png
   navbar:
     title: false
-    logo: pictures/logo/logo.png
+    logo: pictures/logo/logoo4.png
     logo-alt: "The web of Francis"
     background: primary
     left:
@@ -44,9 +44,7 @@ website:
 
 format:
   html:
-    theme: 
-      dark: [Solar, mystyles.scss]
-      light: Flatly 
+    theme: [Solar, mystyles.scss]
     mainfont: Gelasio
     css: styles.css
     toc: true
