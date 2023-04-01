@@ -7,7 +7,7 @@ website:
   favicon: pictures/icons/herbivore.png
   navbar:
     title: false
-    logo: pictures/logo/logoo4.png
+    logo: pictures/logo/logo_koala.png
     logo-alt: "The web of Francis"
     background: primary
     left:
