@@ -8,7 +8,6 @@ website:
   navbar:
     title: false
     logo: pictures/logo/logo_fisher.png
-    logo-alt: "The web of Francis"
     background: primary
     left:
       - href: index.qmd
