@@ -4,10 +4,10 @@ project:
 
 website:
   title: "Francis Banville"
-  favicon: pictures/icons/herbivore.png
+  favicon: pictures/icons/fisher.png
   navbar:
     title: false
-    logo: pictures/logo/logo_koala.png
+    logo: pictures/logo/logo_fisher.png
     logo-alt: "The web of Francis"
     background: primary
     left:
