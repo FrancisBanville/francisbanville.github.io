@@ -4,6 +4,4 @@ editor: source
 
 # About
 
-A little bit about myself.
-
-IVADO student portrait.
+A little bit about myselft (with positionality).
