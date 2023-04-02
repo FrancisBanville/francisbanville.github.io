@@ -5,3 +5,4 @@ editor: source
 # Resources
 
 This is a short list of resources that I find useful.
+

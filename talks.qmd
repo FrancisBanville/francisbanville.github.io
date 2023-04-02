@@ -102,3 +102,6 @@ Juliacon 2020, virtual\
 ![Deriving food-web structure from state variables (e.g., species richness) using the principle of maximum entropy.](pictures/conf/trophic-mete2.png){width=350}
 
 
+
+
+
