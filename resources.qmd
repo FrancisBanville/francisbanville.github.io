@@ -4,4 +4,4 @@ editor: source
 
 # Resources
 
-This is a list of resources that I find useful.
+This is a short list of resources that I find useful.
