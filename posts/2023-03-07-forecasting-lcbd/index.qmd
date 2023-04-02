@@ -39,3 +39,4 @@ In general, our work is promising as it shows how different data sources can be 
 *This piece of writing was the [first of two blog posts](https://bios2.usherbrooke.ca/2022/02/17/forecasting-biodiversity-geo-bon/) on our internship experience with GEO BON, which happened in the summer of 2021. The [second post](https://bios2.usherbrooke.ca/2022/03/03/forecasting-biodiversity-data-availability/) discussed in more depth our learning experience regarding data availability. With this series of articles, we hoped that we sparked your enthusiasm in pursuing such a science-driven internship!*
 
 *Francis Banville, Gabriel Dansereau and Samuel Provencher-Tardif*
+
