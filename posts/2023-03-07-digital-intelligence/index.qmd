@@ -20,7 +20,9 @@ editor: source
 
 ![](fox.png){fig-align="center"}
 
-***Artificial intelligence can be used to classify the full set of predation relationships within a biological community. Without it, such a task would be difficult if not inconceivable. Networks made up of predators and their prey are core elements in the operation and stability of every ecosystem, and can be reconstituted based on the total number of species present. But for what purpose? To better protect them.***
+*Artificial intelligence can be used to classify the full set of predation relationships within a biological community. Without it, such a task would be difficult if not inconceivable. Networks made up of predators and their prey are core elements in the operation and stability of every ecosystem, and can be reconstituted based on the total number of species present. But for what purpose? To better protect them.*
+
+--- 
 
 Bluefin tuna is a staple of the diets of millions of people. It feeds mainly on small fish, which in turn feed on plankton. The decline of a one species within that food chain could have dramatic consequences for bluefin populations, which are already severely affected by commercial fishing. This is a simplified illustration, however, and it paints a somewhat misleading ecological picture. Every biological community comprising a given set of species, aquatic or terrestrial, actually includes multiple interconnected food chains, which, taken together, amount to a network. Such networks, weakened because of human activity, underpin the workings of all ecosystems.
 
