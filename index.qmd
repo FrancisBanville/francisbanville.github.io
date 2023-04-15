@@ -13,6 +13,9 @@ about:
     - icon: twitter
       text: twitter
       href: https://twitter.com/francisbanv
+    - icon: mastodon
+      text: Mastodon
+      href: https://mastodon.social/@francisbanville
     - icon: github
       text: GitHub
       href: https://github.com/FrancisBanville
@@ -20,7 +23,7 @@ about:
       text: Linkedin
       href: https://www.linkedin.com/in/francis-banville-890a91192/
     - icon: google
-      text: Google Scholar
+      text: Scholar
       href: https://scholar.google.fr/citations?user=jqagMewAAAAJ&hl=fr&oi=ao
 ---
 

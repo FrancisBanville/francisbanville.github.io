@@ -20,7 +20,7 @@ editor: source
 
 ![](fox.png){fig-align="center"}
 
-*Artificial intelligence can be used to classify the full set of predation relationships within a biological community. Without it, such a task would be difficult if not inconceivable. Networks made up of predators and their prey are core elements in the operation and stability of every ecosystem, and can be reconstituted based on the total number of species present. But for what purpose? To better protect them.*
+*Artificial intelligence can be used to classify the full set of predation relationships within a biological community. Without it, such a task would be difficult if not inconceivable. Networks made up of predators and their prey are core elements in the operation and stability of every ecosystem, and can be reconstituted based on the total number of species present. But for what purpose? To better protect them. *
 
 --- 
 

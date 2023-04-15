@@ -4,6 +4,21 @@ editor: source
 
 # Organized sessions
 
+##### 2. Complexity matters: subjectivity as practice in contemporary biology
+
+Leroux, E., Mélançon, V., **Banville, F.**, Brémaud, J., Robitaille, F., & Gholamhosseini, M. (2023, March 16-17)\
+33rd Biology Symposium of the University of Montreal, Montreal, Qc, Canada\
+[Event](https://event.fourwaves.com/fr/udemsymposiumbiologie/pages)
+
+![I was part of the student committee in charge of organizing the 33rd symposium of the department of biological sciences of the University of Montreal. This event aims to promote students' research in the department and dedicates its annual theme to key contemporary scientifical and societal questions. We invited keynote speakers and organized a round table on the issues of subjectivity and complexity in science. Picture credit: Tanya Strydom.](pictures/conf/symposium_bio.jpg){width=500}
+
+##### 1. Space Oddity: Thinking about ecological networks across space
+
+Dansereau, G., **Banville, F.**, & Strydom, T. (2022, August 14-19)\
+ESA & CSEE Joint Meeting (Inspire session), Montreal, Qc, Canada\
+[Event](https://www.esa.org/montreal2022/),
+[Inspire session](https://www.esa.org/montreal2022/program/past-calls-for-submissions/inspire-sessions/),
+[Description and presentations](https://www.eventscribe.net/2022/ESA/fsPopup.asp?Mode=sessionInfo&PresentationID=1077466)
 
 
 # Contributed talks
