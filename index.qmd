@@ -1,6 +1,6 @@
 ---
 title: "Francis Banville"
-image: pictures/moi.jpg
+image: pictures/me.jpg
 editor: source
 about: 
   template: trestles
