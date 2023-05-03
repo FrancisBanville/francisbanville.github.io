@@ -5,7 +5,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Sail&display=swap');
 
 // Colors
-$black: #222222;
+$black: #001820;
 $blue: #0181b0;
 $blue-picton: #01B3F4;
 $cream: #F0F7F4;
@@ -13,6 +13,7 @@ $green: #9FD076;
 $green-cream: #D7EAE1;
 $lime: #C3F73A;
 $yellow: #D08739;
+$white: #FFFFFF;
 
 
 // Sizes
@@ -24,7 +25,7 @@ $navbar-bg: $blue; // navbar
 $navbar-fg: $cream; // navbar foreground elements
 $navbar-hl: $black; // highlight color when hovering over navbar links
 $body-bg: $black; // page background 
-$body-color: $cream; // page text 
+$body-color: $white; // page text 
 $footer-bg: $cream; // footer 
 $link-color: $blue-picton; // hyperlinks 
 
