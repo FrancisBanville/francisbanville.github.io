@@ -23,6 +23,15 @@ ESA & CSEE Joint Meeting (Inspire session), Montreal, Qc, Canada\
 
 # Contributed talks
 
+##### 6. Comment les réseaux de prédateurs et de proies sont-ils structurés dans les milieux naturels?
+
+**Banville, F.**, Gravel, D., & Poisot, T. (2023, May 8-12)\
+90e congrès de l'ACFAS, Montreal, Qc, Canada\
+[Event](https://www.acfas.ca/evenements/congres/archives/90),
+[Slides](https://docs.google.com/presentation/d/16I-6Z-kFA666lmRx42eI7fVamLPrQMJ1VCI5aB6VdVM/edit?usp=sharing),
+[Video](https://www.youtube.com/watch?v=AX7Mgg-Vf38&ab_channel=FrancisBanville)
+
+
 ##### 5. What constrains food webs? A maximum entropy model for predicting their structure with minimal biases
 
 **Banville, F.**, Gravel, D., & Poisot, T. (2022, August 14-19)\
