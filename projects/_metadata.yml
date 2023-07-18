@@ -5,3 +5,6 @@ freeze: auto
 
 # enable banner style title blocks (see https://quarto.org/docs/authoring/title-blocks.html)
 title-block-banner: "#222222" 
+
+# place figure captions in the margins 
+cap-location: margin

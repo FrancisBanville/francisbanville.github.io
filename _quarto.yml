@@ -46,7 +46,7 @@ format:
     theme: [Solar, mystyles.scss]
     mainfont: Gelasio
     css: styles.css
-    toc: true
+    toc: false
     code-background: true
     code-fold: true
 
