@@ -46,17 +46,18 @@ I use he/him pronouns.
 
 ## education
 
-{{< fa graduation-cap >}} PhD in Biological Sciences (2019-now)\
-Université de Montréal and Université de Sherbrooke
+{{< fa graduation-cap >}} PhD in Biological Sciences (since 2019, 
+[{{< fa globe >}}](https://admission.umontreal.ca/programmes/doctorat-en-sciences-biologiques/))\
+*Université de Montréal and Université de Sherbrooke*\
 
 {{< fa graduation-cap >}} Cert. in Synthetic and
-Collaborative Science (2022)\
-Living Data Project, CIEE\
-[{{< fa globe >}} website](https://www.ciee-icee.ca/ldp.html)
+Collaborative Science (2022, 
+[{{< fa globe >}}](https://www.ciee-icee.ca/ldp-certificates.html))\
+*Living Data Project, CIEE*\
 
-{{< fa graduation-cap >}} BSc in Biological Sciences (2016-18)\
-Université de Montréal
-
+{{< fa graduation-cap >}} BSc in Biological Sciences (2016-18, 
+[{{< fa globe >}}](https://admission.umontreal.ca/programmes/baccalaureat-en-sciences-biologiques/))\
+*Université de Montréal*\
 
 ------------------------------------------------------------------------
 
@@ -67,40 +68,40 @@ Biostatistics and Population dynamics courses\
 *Université de Montréal*
 
 {{< fa comments >}} symposium co-organizer (2023)\
-33rd symposium of biology\
+33rd symposium of biology
+([{{< fa globe >}}](https://event.fourwaves.com/fr/udemsymposiumbiologie/pages?fbclid=IwAR3DF4jIE8DX8Xofqoclz3JFchXsTpClqYbCJ8flQCdrwESUrQOj08HDZ3Y))\
 *Université de Montréal*\
-[{{< fa globe >}} website](https://event.fourwaves.com/fr/udemsymposiumbiologie/pages?fbclid=IwAR3DF4jIE8DX8Xofqoclz3JFchXsTpClqYbCJ8flQCdrwESUrQOj08HDZ3Y)
 
 {{< fa laptop >}} programming mentor (2020-22)\
-Data.Trek training program\
-*Institute for Data Valorization (IVADO)*\
-[{{< fa globe >}} website](https://ivado.ca/en/events/the-100-days-of-data-trek-challenge-2/)
+Data.Trek training program
+([{{< fa globe >}}](https://ivado.ca/en/events/the-100-days-of-data-trek-challenge-2/))\
+*Institute for Data Valorization (IVADO)*
 
 ------------------------------------------------------------------------
 
 ## affiliations 
 
-{{< fa circle-nodes >}} Quantitative and Computational Ecology Lab\
+{{< fa circle-nodes >}} Quantitative and Computational Ecology Lab
+([{{< fa globe >}}](https://poisotlab.io/),
+[{{< fa hashtag >}}](https://twitter.com/poisotlab),
+[{{< fa code-branch >}}](https://github.com/PoisotLab))\
 *Université de Montréal*\
-[{{< fa globe >}} website](https://poisotlab.io/),
-[{{< fa hashtag >}} twitter](https://twitter.com/poisotlab),
-[{{< fa code-branch >}} GitHub](https://github.com/PoisotLab)
 
-{{< fa tree >}} Integrative Ecology Lab\
+{{< fa tree >}} Integrative Ecology Lab
+([{{< fa globe >}}](https://ielab.recherche.usherbrooke.ca/))\
 *Université de Sherbrooke*\
-[{{< fa globe >}} website](https://ielab.recherche.usherbrooke.ca/)
 
-{{< fa laptop >}} Institute for Data Valorization (IVADO)\
-[{{< fa globe >}} website](https://ivado.ca/en/),
-[{{< fa hashtag >}} twitter](https://twitter.com/IVADO_Qc)
+{{< fa laptop >}} Institute for Data Valorization (IVADO,
+[{{< fa globe >}}](https://ivado.ca/en/),
+[{{< fa hashtag >}}](https://twitter.com/IVADO_Qc))
 
 {{< fa calculator >}} Computational Biodiversity Science & Services program\
-(BIOS²)\
-[{{< fa globe >}} website](https://bios2.usherbrooke.ca/),
-[{{< fa hashtag >}} twitter](https://twitter.com/_bios2)
+(BIOS², 
+[{{< fa globe >}}](https://bios2.usherbrooke.ca/),
+[{{< fa hashtag >}}](https://twitter.com/_bios2))
 
-{{< fa frog >}} Quebec Centre for Biodiversity Science (QCBS)\
-[{{< fa globe >}} website](https://qcbs.ca/),
-[{{< fa hashtag >}} twitter](https://twitter.com/csbq_qcbs)
+{{< fa frog >}} Quebec Centre for Biodiversity Science (QCBS, 
+[{{< fa globe >}}](https://qcbs.ca/),
+[{{< fa hashtag >}}](https://twitter.com/csbq_qcbs))
 
 
