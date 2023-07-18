@@ -9,4 +9,4 @@ This is a short list of resources that I find useful.
 - 3Blue1Brown and StatQuest channels, which, respectively, explain university-level concepts in mathematics and statistical methods, including machine learning and deep learning methods. 
 
 - Richard McElreath’s book on Bayesian inference is an accessible textbook that was a bit help to me in learning statistics.
-
+ 

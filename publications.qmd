@@ -81,7 +81,7 @@ Higino G., Forero N., **Banville, F.**, Dansereau, G., & Poisot, T. (2021)\
 [{{< fa file-pen >}} article](https://doi.org/10.21105/joss.02721), 
 [{{< fa code-branch >}} repo](https://github.com/PoisotLab/EcologicalNetworks.jl/tree/joss-article-review1),
 [{{< fa code >}} Mangal.jl](https://github.com/PoisotLab/Mangal.jl),
-[{{< fa code >}} EcologicalNetworks.jl](https://github.com/PoisotLab/EcologicalNetworks.jl)
+[{{< fa code >}} EcologicalNetworks.jl](https://github.com/PoisotLab/EcologicalNetworks.jl) 
 
 ##### 2. \[Re\] Chaos in a Three-Species Food Chain
 

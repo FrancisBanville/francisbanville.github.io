@@ -10,21 +10,30 @@ about:
     - icon: envelope-fill
       text: email
       href: mailto:francis.banville@umontreal.ca
+    - icon: github
+      text: GitHub
+      href: https://github.com/FrancisBanville
+    - icon: youtube
+      text: Youtube
+      href: https://www.youtube.com/channel/UCZwgeAPVXkufGKgrNBHNJ4w
     - icon: twitter
-      text: twitter
+      text: Twitter
       href: https://twitter.com/francisbanv
     - icon: mastodon
       text: Mastodon
       href: https://mastodon.social/@francisbanville
-    - icon: github
-      text: GitHub
-      href: https://github.com/FrancisBanville
     - icon: linkedin
       text: Linkedin
       href: https://www.linkedin.com/in/francis-banville-890a91192/
     - icon: google
       text: Scholar
       href: https://scholar.google.fr/citations?user=jqagMewAAAAJ&hl=fr&oi=ao
+    - icon: orcid
+      text: ORCID
+      href: https://orcid.org/my-orcid?orcid=0000-0001-9051-0597
+    - icon: researchgate
+      text: ResearchGate
+      href: https://www.researchgate.net/profile/Francis-Banville-2
 ---
 
 ## Hi there! Salut!

@@ -19,7 +19,7 @@ image: bird.jpg
 draft: false 
 editor: source
 ---
-
+ 
 We recently completed a two-month internship with The Group on Earth Observations Biodiversity Observation Network (GEO BON). Its headquarters having recently moved to Montreal, we immediately wanted to be part of this new chapter by contributing to a project as exciting as it is ambitious: an integrated biodiversity information system. GEO BON is indeed currently developing such an information system that would, among other things, provide real-time estimates of many biodiversity indicators at the planetary scale. Another purpose of GEO BON's information system is to facilitate the conduction of biodiversity forecasts under different socioeconomic scenarios and enhance the plausibility and precision of these models.
 
 When implemented, this tool could be highly valuable for both the scientific community and environmental managers alike. Unlike our enthusiasm and excitement for the broader project, our contribution had to be finite (!). Our role, as interns, was to develop a forecasting model of local contributions to beta diversity (LCBD), a measure of a site's ecological uniqueness in terms of species composition, of warbler species at the regional scale. Our work served as a proof of concept for GEO BON's project and helped identify potential pitfalls in terms of data availability and computing resources.

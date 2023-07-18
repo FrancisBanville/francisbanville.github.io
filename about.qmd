@@ -12,7 +12,7 @@ Safeguarding the **quality of the environment** for the benefits of humans and a
 
 ### {{< fa person-hiking >}} My academic journey
 
-After spending nearly two years studying mathematics, I decided to switch to biology. I wanted to deepen my understanding of the environmental issues we face today. A little later, I eventually merged these two interests by starting a professional master’s in quantitative and computational biology. This enabled me to develop my programming skills and familiarize myself with the use of digital methods in ecology. These skills were invaluable to me when I started my scientific journey as a PhD student in biology. 
+After spending nearly two years studying mathematics, I decided to switch to biology. I wanted to deepen my understanding of the environmental issues we face today. A little later, I eventually merged these two interests by starting a professional master’s in quantitative and computational biology. This enabled me to develop my programming skills and familiarize myself with the use of digital methods in ecology. These skills were invaluable to me when I started my scientific journey as a PhD student in biology.  
 
 [![I made this hypnotizing GIF in one of my Master's projects, in which we reproduced the classical paper of Hastings and Powell (1991). It shows how the temporal dynamics of a three-species food chain slowly takes the shape of an alluring tea cup. ](pictures/about/figure2D.gif){width=300}](https://zenodo.org/record/4022518#.ZDq_A3ZBy3A)
 
