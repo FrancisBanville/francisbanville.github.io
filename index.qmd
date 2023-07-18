@@ -30,7 +30,7 @@ about:
       href: https://scholar.google.fr/citations?user=jqagMewAAAAJ&hl=fr&oi=ao
     - icon: orcid
       text: ORCID
-      href: https://orcid.org/my-orcid?orcid=0000-0001-9051-0597
+      href: https://orcid.org/0000-0001-9051-0597
     - icon: researchgate
       text: ResearchGate
       href: https://www.researchgate.net/profile/Francis-Banville-2
