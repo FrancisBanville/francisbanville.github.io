@@ -7,7 +7,7 @@ website:
   favicon: pictures/icons/fisher.png
   navbar:
     title: false
-    logo: pictures/logo/logo_fisher.png
+    logo: pictures/logo/logo_fisher2.png
     background: primary
     left:
       - href: index.qmd

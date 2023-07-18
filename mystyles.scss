@@ -1,19 +1,19 @@
 /*-- scss:defaults --*/
 
 // Fonts
-@import url('https://fonts.googleapis.com/css2?family=Gelasio&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Sail&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Merriweather&display=swap');
 
 // Colors
-$black: #222222;
-$blue: #0181b0;
-$blue-picton: #01B3F4;
+$black: #0C1A1A;
+$blue: #2c3d4f;
+$blue-light: #EFFAFD;
+$blue-picton: #6d94cd;
 $cream: #F0F7F4;
+$eggplant: #A0006D;
 $green: #9FD076;
 $green-cream: #D7EAE1;
-$lime: #C3F73A;
-$yellow: #D08739;
-$white: #FFFFFF;
+$white: #ffffff;
 
 
 // Sizes
@@ -23,10 +23,10 @@ $my-width: 500px;
 // Base document colors
 $navbar-bg: $blue; // navbar
 $navbar-fg: $cream; // navbar foreground elements
-$navbar-hl: $black; // highlight color when hovering over navbar links
-$body-bg: $black; // page background 
-$body-color: $white; // page text 
-$footer-bg: $cream; // footer 
+$navbar-hl: $blue-picton; // highlight color when hovering over navbar links
+$body-bg: $white; // page background 
+$body-color: $black; // page text 
+$footer-bg: $blue; // footer 
 $link-color: $blue-picton; // hyperlinks 
 
 // Inline code
@@ -41,30 +41,49 @@ $code-block-bg: $cream; // code block background color
 // CSS rules
 
 h1 {
-  color: $green;
-  font-family: sail;
-  font-size: 2.5rem;
+  color: $blue;
+  font-family: merriweather;
+  font-size: 2.2rem;
 }
 
 h2 {
-  color: $green;
+  color: $blue;
+  font-family: montserrat;
+  font-size: 1.4rem;
 }
 
 h3 {
    font-size: 1.4rem;
+   font-family: montserrat;
+}
+
+h5 {
+   font-size: 1rem;
+   font-family: montserrat;
 }
 
 b, strong {
-   color: $yellow;
+   color: $eggplant;
 }
 
 p {
-   font-size: 0.9rem;
+   font-size: 0.8rem;
+   font-family: montserrat;
+}
+
+.about-link-text {
+  font-size: 0.7rem;
+  font-family: montserrat;
+}
+
+.description, .quarto-category {
+  color: $black;
 }
 
 .figure-caption {
-  color: $green-cream;
-  font-size: 0.8rem;
+  color: $blue;
+  font-size: 0.6rem;
+  font-family: montserrat;
 }
 
 .listing-author {
@@ -72,11 +91,15 @@ p {
 }
 
 .menu-text {
-  font-size: 1rem;
-  font-family: sail;
+  font-size: 0.8rem;
+  font-family: montserrat;
 }
 
 .navbar-logo {
   max-height: 70px;
 }
+
+
+
+
 
