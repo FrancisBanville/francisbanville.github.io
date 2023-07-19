@@ -135,11 +135,9 @@ MacDonald, A., **Banville, F.**, & Poisot, T. (2020)\
 [![](pictures/figures/transfer-learning2.png){height=220, width=220}](https://ecoevorxiv.org/repository/view/3823/)
 :::
 
-Strydom, T., Bouskila, S., **Banville, F.**, Barros, C., Caron, D., Farrell, M.J., Fortin, M.-J., Hemming, V., Mercier, B., & Pollock, L.J. (2022)\
+Strydom, T., Bouskila, S., **Banville, F.**, Barros, C., Caron, D., Farrell, M.J., Fortin, M.-J., Hemming, V., Mercier, B., Pollock, L.J., Runghen, R., Dalla Riva, G.V., & Poisot. T. (2022)\
 *EcoEvoRxiv*\
 [{{< fa file-pen >}} preprint](https://ecoevorxiv.org/repository/view/3823/),
 [{{< fa brands github >}} repo](https://github.com/PoisotLab/ms_metaweb_perspectives)
-
-
 
 
