@@ -95,7 +95,7 @@ Higino G., Forero N., **Banville, F.**, Dansereau, G., & Poisot, T. (2021)\
 
 Dansereau, G., **Banville, F.**, Basque, E., MacDonald, A., & Poisot, T. (2020)\
 *ReScience C*\
-[{{< fa file-pen >}} article](https://doi.org/10.5281/zenodo.4022518), 
+[{{< fa file-pen >}} article](http://rescience.github.io/bibliography/Dansereau_2020.html), 
 [{{< fa brands github >}} repo](https://github.com/BIO6032/2019_replication_HastingsPowell_1991/tree/v1.0.0)
 
 <br>

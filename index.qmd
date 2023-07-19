@@ -62,7 +62,7 @@ Collaborative Science](https://www.ciee-icee.ca/ldp-certificates.html) (2022)\
 ## Experience
 
 {{< fa apple-whole >}} teaching assistant (since 2020)\
-[Biostatistics](https://admission.umontreal.ca/cours-et-horaires/cours/bio-2041/) and [Population dynamics courses](https://admission.umontreal.ca/cours-et-horaires/cours/bio-2811/)\
+[Biostatistics](https://admission.umontreal.ca/cours-et-horaires/cours/bio-2041/) and [Population dynamics](https://admission.umontreal.ca/cours-et-horaires/cours/bio-2811/) courses\
 *Université de Montréal*\
 
 {{< fa comments >}} symposium co-organizer (2023)\
