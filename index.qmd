@@ -1,6 +1,6 @@
 ---
 title: "Francis Banville"
-image: pictures/sentinelle-nord.jpg
+image: pictures/meso-forest.jpg
 editor: source
 about: 
   template: trestles
