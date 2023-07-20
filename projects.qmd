@@ -1,7 +1,8 @@
 ---
 listing: 
-  contents: projects # all Quarto docs in the "posts" directory 
-  type: grid # or "default" or "table"
-  sort: "date desc" # can also sort on more than one field
-  categories: true # allows you to sort posts by assigned categories 
+  contents: projects # all Quarto docs in the "projects" directory 
+  type: grid # "grid", "default" or "table"
+  categories: false # allows you to sort posts by assigned categories 
+  sort: "date" # can also sort on more than one field
+  date-format: " "
 ---

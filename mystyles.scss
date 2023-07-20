@@ -74,8 +74,9 @@ p {
   font-family: montserrat;
 }
 
-.description, .quarto-category {
+.description, .quarto-category, .quarto-title-meta-contents, .card-index, .listing-description, .listing-category {
   color: $black;
+  font-family: montserrat;
 }
 
 .figure-caption {
@@ -86,6 +87,13 @@ p {
 
 .listing-author {
   font-size: 0.7rem;
+  font-family: montserrat;
+}
+
+.listing-date {
+  font-size: 0.7rem;
+  font-family: montserrat;
+  font-weight: bold;
 }
 
 .menu-text {

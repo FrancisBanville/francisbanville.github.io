@@ -20,6 +20,8 @@ website:
         text: publications
       - href: talks.qmd
         text: talks
+      - href: education.qmd
+        text: education
       - href: posts.qmd
         text: blog
       - href: resources.qmd
