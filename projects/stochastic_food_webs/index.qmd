@@ -1,6 +1,6 @@
 ---
 title: "Stochastic webs"
-image: ants.png
+image: meme_interaction.jpg
 description: " " 
 draft: false
 date: 01-03-2000

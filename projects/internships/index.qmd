@@ -1,6 +1,6 @@
 ---
 title: "Internships"
-image: bird.jpg
+image: timeseries_combined.gif
 description: " " 
 date: 01-05-2000
 date-format: " "

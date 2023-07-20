@@ -1,6 +1,6 @@
 ---
 title: "Book club"
-image: spiderman.png
+image: book.jpg
 description: " "
 date: 01-06-2000
 date-format: " "
