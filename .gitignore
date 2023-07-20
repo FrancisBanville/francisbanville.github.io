@@ -4,6 +4,6 @@
 .httr-oauth
 .DS_Store
 .docx
-.pptx
+~$pictures.pptx
 
 /.quarto/

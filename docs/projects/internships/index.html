@@ -40,6 +40,8 @@ ul.task-list li input[type="checkbox"] {
 <script src="../../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
 <link href="../../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<link href="../../site_libs/quarto-contrib/fontawesome6-0.1.0/all.css" rel="stylesheet">
+<link href="../../site_libs/quarto-contrib/fontawesome6-0.1.0/latex-fontsize.css" rel="stylesheet">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -69,7 +71,7 @@ ul.task-list li input[type="checkbox"] {
 <link rel="stylesheet" href="../../styles.css">
 </head>
 
-<body class="nav-fixed fullcontent">
+<body class="nav-fixed">
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
@@ -159,15 +161,53 @@ ul.task-list li input[type="checkbox"] {
   </header><div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+    </div>
 <!-- main -->
-<main class="content quarto-banner-title-block" id="quarto-document-content">
+<main class="content quarto-banner-title-block page-columns page-full" id="quarto-document-content">
 
 
 
 
+<section id="forecasting-the-biodiversity-of-warbler-species" class="level3 page-columns page-full">
+<h3 class="anchored" data-anchor-id="forecasting-the-biodiversity-of-warbler-species">2. Forecasting the biodiversity of warbler species</h3>
+<p>Internship at the <a href="https://geobon.org/"><em>Group on Earth Observations Biodiversity Observation Network</em></a> (GEO BON)<br>
+Supervised by Andrew Gonzalez<br>
+<em>May - August 2021 (part-time)</em><br>
+<a href="https://bios2.usherbrooke.ca/2022/02/17/forecasting-biodiversity-geo-bon/"><i class="fa-solid fa-file-pen" aria-label="file-pen"></i> BIOS² first blog post</a> (also <a href="https://francisbanville.github.io/posts/2023-03-07-forecasting-lcbd/">posted here</a>), <a href="https://bios2.usherbrooke.ca/2022/03/03/forecasting-biodiversity-data-availability/"><i class="fa-solid fa-file-pen" aria-label="file-pen"></i> BIOS² second blog post</a>, <a href="https://github.com/PoisotLab/betadiversity-forecasts"><i class="fa-brands fa-github" aria-label="github"></i> repo</a></p>
+<div class="quarto-figure quarto-figure-center page-columns page-full">
+<figure class="figure page-columns page-full">
+<p><img src="timeseries_combined.gif" class="img-fluid figure-img"></p>
+<p></p><figcaption class="figure-caption margin-caption">We forecasted the local contributions to beta diversity (LCBD) of warbler communities in Quebec and Colombia under different climate change and habitat use scenarios. LCBD indices measure the uniqueness of a site (or gird cell) in terms of species composition and can help environmental managers identify places with high biodiversity value. This animated figure was created in collaboration with Gabriel Dansereau and Samuel Provencher-Tardif, with which I did my internship.</figcaption><p></p>
+</figure>
+</div>
+<p>The aim of our internship was to test a methodological framework to generate machine-learning based forecasts of meaningful biodiversity indicators under different socio-economic scenarios. We developed an inference model of beta-diversity in Quebec and Colombia, two states with completely different environments and sociopolitical contexts that host other important GEO BON’s projects. More precisely, we integrated biodiversity and environmental data from different sources to forecast local contributions to beta diversity (LCBD) indices of wood-warbler species across space. These species were chosen in our case study because of their wide geographical distribution and the amount of occurrence data available in open databases. Once implemented, this framework could guide conservation efforts by efficiently generating real-time reports on the current and anticipated states of biodiversity on a global scale.</p>
+<p><br> <br></p>
+</section>
+<section id="supporting-a-100-day-coding-challenge" class="level3 page-columns page-full">
+<h3 class="anchored" data-anchor-id="supporting-a-100-day-coding-challenge">1. Supporting a 100-day coding challenge</h3>
+<p>Internship at the <a href="https://ivado.ca/en/"><em>Institute for Data Valorization</em></a> (IVADO)<br>
+Supervised by Barbara Decelle<br>
+<em>April 2020 - June 2020 (part-time)</em><br>
+<a href="https://ivado.ca/en/events/the-100-days-of-data-trek-challenge-2/"><i class="fa-solid fa-laptop" aria-label="laptop"></i> Data.Trek training program</a><br>
+</p>
+<div class="quarto-figure quarto-figure-center page-columns page-full">
+<figure class="figure page-columns page-full">
+<p><img src="datatrek.jpg" class="img-fluid figure-img"></p>
+<p></p><figcaption class="figure-caption margin-caption">The Data.Trek is a challenge where data trekkers code for 100 consecutive days in a strenuous learning journey (for the fun of it).</figcaption><p></p>
+</figure>
+</div>
+<p>IVADO organized a coding challenge where participants acquire coding skills by dedicating an hour a day to actual coding practice for 100 consecutive days. Participants worked on a personal project using the programming language of their choice between Python, R, and Julia. Our role was to organize a full day of workshops for beginners and intermediate learners and support them in the completion of their projects. I gave an introductory workshop on machine learning and ecological network analysis in Julia (see material below). I was pleasantly surprised by the commitment and motivation of our data trekkers despite the outbreak of the pandemic. That was the first edition of this event. Having had such a positive experience, I gladly volunteered to mentor participants once again in the third edition.</p>
+<section id="material" class="level5">
+<h5 class="anchored" data-anchor-id="material">Material</h5>
+<p><a href="https://nextjournal.com/francisbanville/mangaljl---introduction?change-id=Cn7Gz8vBKYoU35uCVocWy5"><i class="fa-solid fa-code" aria-label="code"></i> Introduction to <code>Mangal.jl</code></a><br>
+<a href="https://nextjournal.com/francisbanville/introduction-%C3%A0-ecologicalnetworks?change-id=Cms9YrJvJjKLbuMEQaYiXn"><i class="fa-solid fa-code" aria-label="code"></i> Itroduction to <code>EcologicalNetworks.jl</code></a><br>
+<a href="https://nextjournal.com/francisbanville/training-neural-networks-using-fluxjl-master?change-id=DSPowrWu4kn8RY1souLZax"><i class="fa-solid fa-code" aria-label="code"></i> Training neural networks using <code>Flux.jl</code></a><br>
+</p>
 
 
+</section>
+</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
