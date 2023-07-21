@@ -1,5 +1,6 @@
 ---
 editor: source
+cap-location: margin
 ---
 
 # Teaching experience
@@ -11,15 +12,15 @@ Course instructor: Dr. Alexandre Collin\
 *Université de Montréal*\
 [{{< fa road >}} course syllabus (fall 2022)](https://bio.umontreal.ca/public/FAS/biologie/Documents/1-Programmes-cours/Cours_et_horaires/AUTOMNE_2022/BIO2041.pdf), [{{< fa building-columns >}} admission](https://admission.umontreal.ca/cours-et-horaires/cours/bio-2041/)
 
-<details style="font-size:17px">
-<summary>course description</summary>
-Biological statistics. Parameters of a distribution. Probability distributions. Confidence intervals. Decision theory. Comparison of two samples. Correlation. Analysis of variance. Chi-square tests. Regression
-</details>
-
 **Head teaching assistant:** {{< fa ghost >}} fall 2022\
 **Teaching assistant:** <i class="fa-solid fa-sun" style="color: #dec317;"></i>
 summers 2022-23\
 **Tutor:** <i class="fa-solid fa-sun" style="color: #dec317;"></i> summers 2020-23\
+
+<details style="font-size:17px">
+<summary>course description</summary>
+Biological statistics. Parameters of a distribution. Probability distributions. Confidence intervals. Decision theory. Comparison of two samples. Correlation. Analysis of variance. Chi-square tests. Regression
+</details>
 
 <br>
 
@@ -28,14 +29,14 @@ Course instructor: Dr. Alexandre Collin\
 *Université de Montréal*\
 [{{< fa road >}} course syllabus (winter 2023)](https://bio.umontreal.ca/public/FAS/biologie/Documents/1-Programmes-cours/Cours_et_horaires/HIVER_2023/BIO2042.pdf), [{{< fa building-columns >}} admission](https://admission.umontreal.ca/cours-et-horaires/cours/bio-2042/)
 
+**Teaching assistant:** <i class="fa-solid fa-snowflake" style="color: #194ca4;"></i>
+winter 2023\
+**Tutor:** <i class="fa-solid fa-snowflake" style="color: #194ca4;"></i> winter 2023\
+
 <details style="font-size:17px">
 <summary>course description</summary>
 Advanced analysis of biological variation. Multiple regression, model II regression, multi-criteria classification and hierarchical ANOVA, analysis of covariance. Introduction to multivariate analysis.
 </details>
-
-**Teaching assistant:** <i class="fa-solid fa-snowflake" style="color: #194ca4;"></i>
-winter 2023\
-**Tutor:** <i class="fa-solid fa-snowflake" style="color: #194ca4;"></i> winter 2023\
 
 <br>
 
@@ -44,13 +45,13 @@ Course instructor: Pr. Daniel Boisclair\
 *Université de Montréal*\
 [{{< fa road >}} course syllabus (winter 2022)](https://bio.umontreal.ca/public/FAS/biologie/Documents/1-Programmes-cours/Cours_et_horaires/HIVER_2022/cycles_sup%C3%A9rieurs/BIO2811_6034.pdf), [{{< fa building-columns >}} admission](https://admission.umontreal.ca/cours-et-horaires/cours/bio-2811/)
 
+**Grader:** <i class="fa-solid fa-snowflake" style="color: #194ca4;"></i>
+winters 2021-22 
+
 <details style="font-size:17px">
 <summary>course description</summary>
 Processes responsible for temporal variations in the abundance of animal and plant populations. Description and use of mathematical models to quantify and predict variations in population abundance.
 </details>
-
-**Grader:** <i class="fa-solid fa-snowflake" style="color: #194ca4;"></i>
-winters 2021-22 
 
 <br>
 
@@ -59,12 +60,12 @@ Course instructor: Pr. Éric Harvey\
 *Université de Montréal*\
 [{{< fa road >}} course syllabus (fall 2021)](https://bio.umontreal.ca/public/FAS/biologie/Documents/1-Programmes-cours/Cours_et_horaires/AUTOMNE_2021/BIO1001__Automne2021_PC_HarveyE.pdf), [{{< fa building-columns >}} admission](https://admission.umontreal.ca/cours-et-horaires/cours/bio-1001/)
 
+**Grader:** {{< fa ghost >}} fall 2021
+
 <details style="font-size:17px">
 <summary>course description</summary>
 Presentation of the basic principles of research work, including laboratory practices, the use of libraries and bibliographic databases, and the acquisition, processing and presentation of scientific data.
 </details>
-
-**Grader:** {{< fa ghost >}} fall 2021
 
 <br>
 
@@ -73,12 +74,12 @@ Course instructor: Pr. Timothée Poisot\
 *Université de Montréal*\
 [{{< fa road >}} course syllabus (summer 2021)](https://bio.umontreal.ca/public/FAS/biologie/Documents/1-Programmes-cours/Cours_et_horaires/ETE_2021/cycles_sup%C3%A9rieurs/BIO6065_E2021_PC_PoisotT.pdf), [{{< fa building-columns >}} admission](https://admission.umontreal.ca/cours-et-horaires/cours/bio-6065/)
 
+**Teaching assistant:** <i class="fa-solid fa-sun" style="color: #dec317;"></i> summer 2021
+
 <details style="font-size:17px">
 <summary>course description</summary>
 This one-week advanced training course will present, through projects, the most advanced data mining methods for working with ecological data.
 </details>
-
-**Teaching assistant:** <i class="fa-solid fa-sun" style="color: #dec317;"></i> summer 2021
 
 <br>
 
@@ -87,12 +88,12 @@ Course instructor: Pr. Timothée Poisot\
 *Université de Montréal*\
 [{{< fa road >}} course syllabus (fall 2020)](https://bio.umontreal.ca/public/FAS/biologie/Documents/1-Programmes-cours/Cours_et_horaires/AUTOMNE_2020/cycles_sup%C3%A9rieurs/BIO3043-6037_PCA20_TPoisot.pdf), [{{< fa building-columns >}} admission](https://admission.umontreal.ca/cours-et-horaires/cours/bio-3043/)
 
+**Teaching assistant:** {{< fa ghost >}} fall 2020
+
 <details style="font-size:17px">
 <summary>course description</summary>
 Description of ecological communities from the perspective of network theory, structure of interactions between species, prediction of emergent properties of ecosystems, spatial and evolutionary dynamics of community structure. 
 </details>
-
-**Teaching assistant:** {{< fa ghost >}} fall 2020
 
 <br>
 
@@ -151,3 +152,67 @@ Quebec Centre for Biodiversity Science (QCBS)\
 
 # Completed graduate courses
 
+### Credited courses 
+
+##### BIO6004 Communication scientifique
+Fall 2018, *Université de Montréal*\
+[{{< fa road >}} course syllabus](https://bio.umontreal.ca/public/FAS/biologie/Documents/1-Programmes-cours/Cours_et_horaires/AUTOMNE_2018/BIO4000_A18_c1_c2.pdf), [{{< fa building-columns >}} admission](https://admission.umontreal.ca/cours-et-horaires/cours/bio-6004/)
+
+##### BIO6032 Biologie computationnelle et modélisation
+Winter 2019, *Université de Montréal*\
+[{{< fa road >}} course syllabus](https://bio.umontreal.ca/public/FAS/biologie/Documents/1-Programmes-cours/Cours_et_horaires/HIVER_2020/cycles_sup%C3%A9rieurs/BIO6032_PC_H20-TPoisot.pdf), [{{< fa building-columns >}} admission](https://admission.umontreal.ca/cours-et-horaires/cours/bio-6032/)
+
+##### BIO6033 Méthodes quantitatives en biologie
+Winter 2019, *Université de Montréal*\
+[{{< fa building-columns >}} admission](https://admission.umontreal.ca/cours-et-horaires/cours/bio-6033/)
+
+##### BIO6037 Analyse des réseaux écologiques
+Fall 2019, *Université de Montréal*\
+[{{< fa road >}} course syllabus](https://bio.umontreal.ca/public/FAS/biologie/Documents/1-Programmes-cours/Cours_et_horaires/AUTOMNE_2019/BIO3043_PC_A19-TPoisot.pdf), [{{< fa building-columns >}} admission](https://admission.umontreal.ca/cours-et-horaires/cours/bio-6037/)
+
+##### BIO6063 Travail dirigé 1
+Supervisors: Pr. Jean-François Lapierre and Pr. Roxanne Maranger\
+Summer 2019, *Université de Montréal*\
+[{{< fa building-columns >}} admission](https://admission.umontreal.ca/cours-et-horaires/cours/bio-6063/)
+
+##### BIO6065 École d'été en synthèse écologique de données
+Summer 2019, *Université de Montréal*\
+[{{< fa building-columns >}} admission](https://admission.umontreal.ca/cours-et-horaires/cours/bio-6065/)
+
+##### BIO6077 Analyse quantitative des données
+Fall 2018, *Université de Montréal*\
+[{{< fa road >}} course syllabus](https://bio.umontreal.ca/public/FAS/biologie/Documents/1-Programmes-cours/Cours_et_horaires/HIVER_2019/Cycles_superieurs/BIO6077_H2019_PC_LegendreP.pdf), [{{< fa building-columns >}} admission](https://admission.umontreal.ca/cours-et-horaires/cours/bio-6077/)
+
+##### BIO6115 Progrès en phylogénie systématique
+Winter 2019, *Université de Montréal*\
+[{{< fa road >}} course syllabus](https://bio.umontreal.ca/public/FAS/biologie/Documents/1-Programmes-cours/Cours_et_horaires/HIVER_2019/BIO3115-6115_PC_H19_ABrunneau.pdf), [{{< fa building-columns >}} admission](https://admission.umontreal.ca/cours-et-horaires/cours/bio-6115/)
+
+##### BIO6260 Génomique microbienne
+Fall 2018, *Université de Montréal*\
+[{{< fa road >}} course syllabus](https://bio.umontreal.ca/public/FAS/biologie/Documents/1-Programmes-cours/Cours_et_horaires/AUTOMNE_2018/Cycles_superieurs/BIO3260-6260_A18.pdf
+), [{{< fa building-columns >}} admission](https://admission.umontreal.ca/cours-et-horaires/cours/bio-6260/)
+
+##### BIO860M Séminaire thématique en écologie
+Winter 2021, *UQAM*\
+[{{< fa building-columns >}} admission](https://etudier.uqam.ca/cours?sigle=BIO860M)
+
+##### GEO6321 Travaux pratiques en géomatique 
+Fall 2018, *Université de Montréal*\
+[{{< fa building-columns >}} admission](https://studium.umontreal.ca/enrol/index.php?id=85500)
+
+##### MSO6028 Introduction aux théories de la mesure
+Winter 2019, *Université de Montréal*\
+[{{< fa road >}} course syllabus](https://espum.umontreal.ca/fileadmin/espum/documents/ESPUM/SYLLABUS/30_MSO6028_H17.pdf), [{{< fa building-columns >}} admission](https://admission.umontreal.ca/cours-et-horaires/cours/mso-6028/)
+
+### Uncredited courses 
+
+##### ECL807 École d’été en modélisation de la biodiversité 2021
+Summer 2021, *Université de Sherbrooke*\
+[{{< fa building-columns >}} admission](https://www.usherbrooke.ca/admission/fiches-cours/ECL807/modelisation-de-la-biodiversite/), [{{< fa apple-whole >}} material](https://bios2.github.io/biodiversity_modelling_2021/)
+
+##### ECL807 Advanced Field School in Computational Ecology 2023
+Summer 2023, *Université de Sherbrooke and Université Laval*\
+[{{< fa building-columns >}} admission](https://sentinellenord.ulaval.ca/en/ecology2023), [{{< fa star >}} Sentinelle Nord](https://sentinellenord.ulaval.ca/en
+)
+
+![We played the TrophIE Game during the Advanced Field School in Computational Ecology. This game simulates predator-prey dynamics by dividing players into three species: a top predator, an intermediate predator, and a prey. Prey could hide from top predators in refugees, but not from intermediate predators (!!). The goal of the game was to survive and find a mate to reproduce. We played in Parc Eco (Quebec), a forest environment. We collected geographical and interaction data and analyzed them for a class project. Picture credit: Sentinelle Nord, Université Laval.](pictures/courses/group_dead.jpg){width=400px}
