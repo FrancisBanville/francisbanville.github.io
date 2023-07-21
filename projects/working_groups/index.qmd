@@ -32,8 +32,7 @@ Led by Caron, D., Strydom, T., & Catchen, M.\
 Virtual\
 Role: participant\
 
-Papers originating from this working group:\
-[{{< fa file-pen >}} A roadmap towards predicting species interaction networks (across space and time)](https://doi.org/10.1098/rstb.2021.0063)\
+Paper originating from this working group:\
 [{{< fa file-pen >}} Food web reconstruction through phylogenetic transfer of low-rank network representation](https://doi.org/10.1111/2041-210X.13835)
 
 ![There are large gaps in our knowledge of the predator-prey interactions that make up food webs, and Canada is no exception. This working group built the first Canadian metaweb of trophic interactions between tetrapods, which documents all of the potential trophic interactions at the national scale. To do so, we predicted potential feeding interactions by leveraging information from the European metaweb using phylogenetic relationships as a medium for transfer.](metaweb_transfer.jpg)

@@ -216,3 +216,12 @@ Summer 2023, *Université de Sherbrooke and Université Laval*\
 )
 
 ![We played the TrophIE Game during the Advanced Field School in Computational Ecology. This game simulates predator-prey dynamics by dividing players into three species: a top predator, an intermediate predator, and a prey. Prey could hide from top predators in refugees, but not from intermediate predators (!!). The goal of the game was to survive and find a mate to reproduce. We played in Parc Eco (Quebec), a forest environment. We collected geographical and interaction data and analyzed them for a class project. Picture credit: Sentinelle Nord, Université Laval.](pictures/courses/group_dead.jpg){width=400px}
+
+##### Scientific collaboration in ecology and evolution
+Fall 2022, *Living Data Project (LDP)*\
+[{{< fa graduation-cap >}} LDP certificates](https://www.ciee-icee.ca/ldp-certificates.html)
+
+##### Synthesis statistics for ecology and evolution
+Fall 2021, *Living Data Project (LDP)*\
+[{{< fa road >}} syllabus](https://sentinellenord.ulaval.ca/en/ecology2023 https://osf.io/a9k5b/), [{{< fa graduation-cap >}} LDP certificates](https://www.ciee-icee.ca/ldp-certificates.html)
+

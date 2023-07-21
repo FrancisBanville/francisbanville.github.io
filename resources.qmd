@@ -4,9 +4,126 @@ editor: source
 
 # Resources
 
-This is a short list of resources that I find useful.
+Here is a short list of resources about science, ecology, and programming that I find particularly useful and interesting. 
 
-- 3Blue1Brown and StatQuest channels, which, respectively, explain university-level concepts in mathematics and statistical methods, including machine learning and deep learning methods. 
+## Science communication and knowledge transfer
 
-- Richard McElreath’s book on Bayesian inference is an accessible textbook that was a bit help to me in learning statistics.
- 
+##### {{< fa pen-fancy >}} Blogs
+
+* [Le nutritionniste urbain](https://nutritionnisteurbain.ca/): nutrition and environment (French)
+
+* [Le Pharmachien](https://lepharmachien.com/): health (French)
+
+##### <i class="fa-solid fa-book-open"></i> Books 
+
+* [Data feminism](https://data-feminism.mitpress.mit.edu/) by Catherine D'Ignazio and Lauren F. Klein: doing data science to dismantle systems of power
+
+* [The climate book](https://books.google.ca/books/about/The_Climate_Book.html?id=f7RjEAAAQBAJ&redir_esc=y) by Greta Thunberg et al: understanding and mitigating climate change
+
+##### {{< fa microphone >}} Podcasts
+
+* [Les Lucioles](https://podcasters.spotify.com/pod/show/leslucioles): graduate students of the Biology Department (my colleagues!) discussing their research (French)
+
+* [Ologies](https://www.alieward.com/ologies): various discussions about biology and culture 
+
+##### {{< fa play >}} Youtube channels
+
+* [3Blue1Brown](https://www.youtube.com/@3blue1brown): mathematical concepts explained with animations
+
+* [acapellascience](https://www.youtube.com/@acapellascience): a cappella songs inspired by science and pop culture
+
+* [L'Histoire nous le dira](https://www.youtube.com/@lhistoirenousledira): general history knowledge (French)
+
+* [Scilabus](https://www.youtube.com/@scilabus): science communication (French)
+
+* [StatQuest](https://www.youtube.com/@statquest): statistics, machine learning and data science thought with humor
+
+
+## Programming and data science
+
+##### {{< fa book >}} Textbooks and guides
+
+* [Guides to better science](https://www.britishecologicalsociety.org/publications/guides-to/): guides of the British Ecological Society to promote research excellence 
+
+* [Quarto](https://quarto.org/docs/websites/): building a personal website using Quarto (was very helpful when I built mine)
+
+* [Statistical rethinking](https://xcelab.net/rm/statistical-rethinking/) by Richard McElreath: a (funny) Bayesian course with examples in R and Stan
+
+* [Think Julia](https://benlauwens.github.io/ThinkJulia.jl/latest/book.html): programming in Julia like a data scientist
+
+##### {{< fa globe >}} Data visualization and images
+
+* [colorbrewer](https://colorbrewer2.org/#type=sequential&scheme=Reds&n=6) and [coolers](https://coolors.co/): generating beautiful color palettes with an option for colorblind safe 
+
+* [The R Graph Gallery](https://r-graph-gallery.com/): collection of charts with reproducible code
+
+* [Top 50 ggplot2 visualizations](http://r-statistics.co/Top50-Ggplot2-Visualizations-MasterList-R-Code.html): collection of charts made with ggplot2
+
+* [PhyloPic](https://www.phylopic.org/): free silhouette images of animals and plants
+
+* [Unsplash](https://unsplash.com/fr): outstanding pictures with a permissive license
+
+##### {{< fa gears >}} Workshops
+
+* [QCBS R workshops](https://r.qcbs.ca/): introduction to R to multivariate analyses
+
+* [The Carpentries](https://carpentries.org/workshops-curricula/): open-source programming workshops
+
+## Ecological and environmental data
+
+##### {{< fa kiwi-bird >}} Occurrence and distribution data 
+
+* [Biodiversité Québec](https://biodiversite-quebec.ca/fr): Quebec biodiversity monitoring
+
+* [GBIF](https://www.gbif.org/): global species occurrences 
+
+* [iNaturalist](https://www.inaturalist.org/observations): species observations and identifications
+
+* [IUCN](https://www.iucnredlist.org/resources/spatial-data-download): species range maps
+
+* [OBIS](https://obis.org/): marine species occurrences
+
+##### {{< fa kiwi-bird >}} Species trait data 
+
+* [FishBase](https://fishbase.ca/search.php): fish traits 
+
+* [Open Traits Network](https://opentraits.org/datasets.html): registry of species traits
+
+* [Open Tree of Life](https://opentreeoflife.github.io/): phylogenetic relationships
+
+* [Plant Trait Database](https://www.try-db.org/TryWeb/Home.php): plant traits
+
+##### {{< fa circle-nodes >}} Species interaction data 
+
+* [Global Biotic Interactions (GloBI)](https://www.globalbioticinteractions.org/data): species interactions 
+
+* [Mangal](https://mangal.io/#/): ecological networks
+
+##### {{< fa cloud-sun-rain >}} Climate and geographic data 
+
+* [CHELSA](https://chelsa-climate.org/): global climate of the earth’s land surface
+
+* [Worldclim](https://www.worldclim.org/): global climate 
+
+##### {{< fa robot >}} Other databases
+
+* [Data One](https://www.dataone.org/): data repository
+
+* [UCI Machine Learning Repository](https://archive.ics.uci.edu/): toy datasets for machine learning
+
+## Miscellaneous
+
+##### {{< fa comment >}} Humanities and geography
+
+* [Native Land Digital](https://native-land.ca/): maps of Indigenous territories, treaties, and languages
+
+* [TERMIUM Plus](https://www.btb.termiumplus.gc.ca/tpv2alpha/alpha-fra.html?lang=fra): robust English to French translations of terminology 
+
+* [what3words](https://what3words.com/doyen.troubler.derri%C3%A8re): 3 words that give your precise location
+
+##### {{< fa utensils >}} Recipes
+
+* [La cuisine de Jean-Philippe](https://www.lacuisinedejeanphilippe.com/): vegan recipes (French)
+
+* [Loounie](https://www.loouniecuisine.com/fr/): vegan recipes (French)
+

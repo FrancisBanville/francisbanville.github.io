@@ -34,6 +34,9 @@ about:
     - icon: researchgate
       text: "{{< fa brands researchgate >}} ResearchGate"
       href: https://www.researchgate.net/profile/Francis-Banville-2
+    - icon: goodreads
+      text: <i class="fa-brands fa-goodreads"></i> goodreads
+      href: https://www.goodreads.com/user/show/108453241-francis-banville
 ---
 
 ## Hi there! Salut!
