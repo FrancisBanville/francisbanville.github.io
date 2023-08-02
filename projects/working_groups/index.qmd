@@ -27,7 +27,7 @@ Role: participant\
 
 
 ##### 1. Assembling, predicting and refining a predator-prey metaweb for Canada 
-Led by Caron, D., Strydom, T., & Catchen, M.\
+Led by Caron, D. & Strydom, T.\
 [Canadian Institute of Ecology and Evolution](https://www.ciee-icee.ca/) (2021)\
 Virtual\
 Role: participant\
