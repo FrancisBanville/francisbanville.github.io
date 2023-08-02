@@ -27,7 +27,7 @@ website:
       - href: resources.qmd
         text: resources
     right: 
-      - href: CV/CV.pdf
+      - href: CV/CV_EN.pdf
         text: CV
       - icon: github
         href: https://github.com/FrancisBanville
