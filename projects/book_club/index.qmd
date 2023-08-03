@@ -1,6 +1,6 @@
 ---
 title: "Book club"
-image: book.jpg
+image: data_feminism.jpg
 description: " "
 date: 01-06-2000
 date-format: " "
@@ -8,7 +8,7 @@ draft: false
 editor: source
 ---
  
-I joined a book club with other PhD students (now post-docs and professors) of my Biology Department (a warm hello to Andrew Blakney, Morgan Botrel, Emmanuelle Chrétien, and Stéphanie Shousha {{< fa hand-spock >}}). We meet on a monthly basis to discuss scientific and philosophical books relevant to our field of study. With this initiative, we hope to [put the "Ph" back in our PhD](https://www.nature.com/articles/d41586-018-01853-1) by fostering philosophical thinking during our doctoral degree, which tends to encourage hyper-specialization at the expense of introspection and critical thinking. Here are some of the books we've read. 
+I joined a book club with other PhD students (now post-docs and professors) of my Biology Department. We meet on a monthly basis to discuss scientific and philosophical books relevant to our field of study. With this initiative, we hope to *put the "Ph" back in our PhD* by fostering philosophical thinking during our doctoral degree, which tends to encourage hyper-specialization at the expense of introspection and critical thinking. Thank you Andrew, Emmanuelle, Morgan, and Stéphanie for your profound reflections and excellent selection of food and drinks. Here are some of the books we've read.
 
 ![**Book 3: [Data Feminism](https://data-feminism.mitpress.mit.edu/)** by Catherine D'Ignazio and Lauren F. Klein. "Today, data science is a form of power. It has been used to expose injustice, improve health outcomes, and topple governments. But it has also been used to discriminate, police, and surveil. In Data Feminism, Catherine D'Ignazio and Lauren Klein present a new way of thinking about data science and data ethics—one that is informed by intersectional feminist thought."](data_feminism.jpg){width=250}
 

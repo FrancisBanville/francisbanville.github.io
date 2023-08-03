@@ -8,34 +8,26 @@ draft: false
 editor: source
 ---
 
-### 2. Forecasting the biodiversity of warbler species
-Internship at the [*Group on Earth Observations Biodiversity Observation Network*](https://geobon.org/) (GEO BON)\
-Supervised by Andrew Gonzalez\
-*May - August 2021 (part-time)*\
+### 2. Forecasting the diversity of warbler species
+With the Group on Earth Observations Biodiversity Observation Network ([GEO BON](https://geobon.org/))\
+May - August 2021 (*Montreal, Canada*)\
 [{{< fa file-pen >}} BIOS² first blog post](https://bios2.usherbrooke.ca/2022/02/17/forecasting-biodiversity-geo-bon/) 
 (also [posted here](https://francisbanville.github.io/posts/2023-03-07-forecasting-lcbd/)),
 [{{< fa file-pen >}} BIOS² second blog post](https://bios2.usherbrooke.ca/2022/03/03/forecasting-biodiversity-data-availability/),
 [{{< fa brands github >}} repo](https://github.com/PoisotLab/betadiversity-forecasts)
 
+![Our predictions suggest that warbler communities are likely to become less unique (more homogeneous) in the south of Quebec in the upcoming years, in contrast with the north. In Colombia, we predicted that the Andes Mountains will continue to host unique and rich warbler communities. Animated figure created in collaboration with fellow interns Gabriel Dansereau and Samuel Provencher-Tardif.](timeseries_combined.gif)
 
-![We forecasted the local contributions to beta diversity (LCBD) of warbler communities in Quebec and Colombia under different climate change and habitat use scenarios. LCBD indices measure the uniqueness of a site (or gird cell) in terms of species composition and can help environmental managers identify places with high biodiversity value. This animated figure was created in collaboration with Gabriel Dansereau and Samuel Provencher-Tardif, with which I did my internship.](timeseries_combined.gif)
-
-The aim of our internship was to test a methodological framework to generate machine-learning based forecasts of meaningful biodiversity indicators under different socio-economic scenarios. We developed an inference model of beta-diversity in Quebec and Colombia, two states with completely different environments and sociopolitical contexts that host other important GEO BON's projects. More precisely, we integrated biodiversity and environmental data from different sources to forecast local contributions to beta diversity (LCBD) indices of wood-warbler species across space. These species were chosen in our case study because of their wide geographical distribution and the amount of occurrence data available in open databases. Once implemented, this framework could guide conservation efforts by efficiently generating real-time reports on the current and anticipated states of biodiversity on a global scale. 
+The aim of our internship was to test a framework to generate machine-learning based forecasts of meaningful biodiversity indicators under different socio-economic scenarios. We built a forecasting model of beta-diversity in Quebec and Colombia, two states with completely different environments and sociopolitical contexts. More precisely, we integrated biodiversity and environmental data from different sources to forecast local contributions to beta diversity (LCBD) indices of wood-warbler species across space. LCBD indices measure the uniqueness of a site (or gird cell) in terms of species composition and can help environmental managers identify places with high biodiversity value. Once implemented, this framework could guide conservation efforts by efficiently generating real-time reports on the current and anticipated states of biodiversity on a global scale. 
 
 <br>
 <br>
 
 ### 1. Supporting a 100-day coding challenge
-Internship at the [*Institute for Data Valorization*](https://ivado.ca/en/) (IVADO)\
-Supervised by Barbara Decelle\
-*April 2020 - June 2020 (part-time)*\
-[{{< fa laptop >}} Data.Trek training program](https://ivado.ca/en/events/the-100-days-of-data-trek-challenge-2/)\
+With the Institute for Data Valorization ([IVADO](https://ivado.ca/en/))\
+January - April 2020 (*Montreal, Canada*)\
+[{{< fa laptop >}} Data.Trek program](https://ivado.ca/en/events/the-100-days-of-data-trek-challenge-2/)\
 
 ![The Data.Trek is a challenge where data trekkers code for 100 consecutive days in a strenuous learning journey (for the fun of it).](datatrek.jpg)
 
-IVADO organized a coding challenge where participants acquire coding skills by dedicating an hour a day to actual coding practice for 100 consecutive days. Participants worked on a personal project using the programming language of their choice between Python, R, and Julia. Our role was to organize a full day of workshops for beginners and intermediate learners and support them in the completion of their projects. I gave an introductory workshop on machine learning and ecological network analysis in Julia (see material below). I was pleasantly surprised by the commitment and motivation of our data trekkers despite the outbreak of the pandemic. That was the first edition of this event. Having had such a positive experience, I gladly volunteered to mentor participants once again in the third edition.
-
-##### Material 
-[{{< fa code >}} Introduction to `Mangal.jl`](https://nextjournal.com/francisbanville/mangaljl---introduction?change-id=Cn7Gz8vBKYoU35uCVocWy5)\
-[{{< fa code >}} Itroduction to `EcologicalNetworks.jl`](https://nextjournal.com/francisbanville/introduction-%C3%A0-ecologicalnetworks?change-id=Cms9YrJvJjKLbuMEQaYiXn)\
-[{{< fa code >}} Training neural networks using `Flux.jl`](https://nextjournal.com/francisbanville/training-neural-networks-using-fluxjl-master?change-id=DSPowrWu4kn8RY1souLZax)\
+IVADO organized a coding challenge where participants acquire coding skills by dedicating an hour a day to actual coding practice for 100 consecutive days. Participants worked on a personal project using the programming language of their choice between Python, R, and Julia. Our role was to organize a full day of workshops for beginners and intermediate learners and support them in the completion of their projects. I gave an introductory workshop on machine learning and ecological network analysis in Julia. I was pleasantly surprised by the commitment and motivation of our data trekkers despite the outbreak of the pandemic. That was the first edition of the event. Having had such a positive experience, I gladly volunteered to mentor participants once again in the third edition.

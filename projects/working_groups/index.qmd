@@ -9,30 +9,33 @@ editor: source
 ---
 
 ##### 3. Black holes and revelations: Identifying priority sampling locations for local food webs in Canada
-Led by Dansereau, G., **Banville, F.**, Catchen, M., & Strydom, T.\
-[BIOS²](https://bios2.usherbrooke.ca/) (2022, September 22-25)\
-Montreal, Quebec, Canada\
-Role: co-organizer\
+With the Computational Biodiversity Science & Services program ([BIOS²](https://bios2.usherbrooke.ca/))\
+September 2022 (*Montreal, Canada*)\
 [{{< fa brands github >}} repo](https://github.com/PoisotLab/BlackHolesAndRevelations),
 [{{< fa code >}} BiodiversityObservationNetworks.jl](https://github.com/EcoJulia/BiodiversityObservationNetworks.jl)\
 
-![Predicting food webs across space while correctly reflecting their uncertainty is an important goal of network ecology. We took a probabilistic metaweb (a network of potential feeding relationships) for Canada, broke it down into localized units, then propagated uncertainty to highlight areas with uncertain network compositions (black holes) or areas with reliable ones (revelations). The aim of this working group was to identify priority sampling locations for interaction data that would be the most efficient at reducing uncertainty in network predictions.](blackholes.jpg)
+![From left to right: Christopher Brimacombe, me, Hana Mayall, Gabriel Dansereau, Timothée Poisot, Penelope Blyth, and Gracielle Higino.](blackholes.jpg)
+
+Predicting food webs across space while correctly reflecting their uncertainty is an important goal of network ecology. We took a probabilistic metaweb (a network of potential feeding relationships) for Canada, broke it down into localized units, and propagated the uncertainty of species interactions to highlight areas with uncertain network compositions (black holes) and areas with reliable ones (revelations). The aim of this working group was to identify priority sampling locations for interaction data that would be the most efficient at reducing uncertainty in network predictions. 
+
+<br>
+<br>
 
 ##### 2. Finding indicator species by assessing the utility of sampled abundance indices
-Led by Freeman, R., Currie, J., & Marconi, V.\
-[Living Data Project](https://www.ciee-icee.ca/ldp.html) (2021, August 30 - September 3)\
-Virtual\
-Role: participant\
+With the Living Data Project ([LDP](https://www.ciee-icee.ca/ldp.html))\
+September 2021 (*virtual* )\
 [{{< fa lightbulb >}} call for participants](https://www.ciee-icee.ca/wg2.html)
 
+<br>
+<br>
 
 ##### 1. Assembling, predicting and refining a predator-prey metaweb for Canada 
-Led by Caron, D. & Strydom, T.\
-[Canadian Institute of Ecology and Evolution](https://www.ciee-icee.ca/) (2021)\
-Virtual\
-Role: participant\
+With the Canadian Institute of Ecology and Evolution ([CIEE](https://www.ciee-icee.ca/))\
+January 2021 ‑ March 2022 (*virtual* )\
+[{{< fa brands github >}} code repo](https://github.com/PoisotLab/MetawebTransferLearning),
+[{{< fa brands github >}} article repo](https://github.com/PoisotLab/ms_metaweb_transfer)
 
-Paper originating from this working group:\
-[{{< fa file-pen >}} Food web reconstruction through phylogenetic transfer of low-rank network representation](https://doi.org/10.1111/2041-210X.13835)
+![Adapted from the paper originating from this working group:\
+[{{< fa file-pen >}} Food web reconstruction through phylogenetic transfer of low-rank network representation](https://doi.org/10.1111/2041-210X.13835)](metaweb_transfer.jpg)
 
-![There are large gaps in our knowledge of the predator-prey interactions that make up food webs, and Canada is no exception. This working group built the first Canadian metaweb of trophic interactions between tetrapods, which documents all of the potential trophic interactions at the national scale. To do so, we predicted potential feeding interactions by leveraging information from the European metaweb using phylogenetic relationships as a medium for transfer.](metaweb_transfer.jpg)
+There are large gaps in our knowledge of the predator-prey interactions that make up food webs, and Canada is no exception. This working group built the first Canadian metaweb of trophic interactions between tetrapods, which documents all of the potential trophic interactions at the national scale. To do so, we predicted potential feeding interactions by leveraging information from the European metaweb using phylogenetic relationships as a medium for transfer.
