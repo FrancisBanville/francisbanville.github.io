@@ -50,49 +50,41 @@ I use he/him pronouns.
 ## Education
 
 {{< fa graduation-cap >}} [PhD in Biological Sciences](https://admission.umontreal.ca/programmes/doctorat-en-sciences-biologiques/) (since 2019)\
-*Université de Montréal and Université de Sherbrooke*\
-
-{{< fa graduation-cap >}} [Cert. in Synthetic and
-Collaborative Science](https://www.ciee-icee.ca/ldp-certificates.html) (2022)\
-*Living Data Project,*\
-*Canadian Institute of Ecology and Evolution (CIEE)*\
+*Université de Montréal, Canada*\
 
 {{< fa graduation-cap >}} [BSc in Biological Sciences](https://admission.umontreal.ca/programmes/baccalaureat-en-sciences-biologiques/) (2016-18)\
-*Université de Montréal*\
+*Université de Montréal, Canada*\
 
 ------------------------------------------------------------------------
 
-## Experience
+## Current occupation
 
-{{< fa apple-whole >}} teaching assistant (since 2020)\
-[Biostatistics](https://admission.umontreal.ca/cours-et-horaires/cours/bio-2041/) and [Population dynamics](https://admission.umontreal.ca/cours-et-horaires/cours/bio-2811/) courses\
-*Université de Montréal*\
+{{< fa graduation-cap >}} Thesis redaction\
+Expected graduation in 2024\
 
-{{< fa comments >}} symposium co-organizer (2023)\
-[33rd symposium of biology](https://event.fourwaves.com/fr/udemsymposiumbiologie/pages?fbclid=IwAR3DF4jIE8DX8Xofqoclz3JFchXsTpClqYbCJ8flQCdrwESUrQOj08HDZ3Y)\
-*Université de Montréal*\
-
-{{< fa laptop >}} programming mentor (2020-22)\
-[Data.Trek training program](https://ivado.ca/en/events/the-100-days-of-data-trek-challenge-2/)\
-*Institute for Data Valorization (IVADO)*
+{{< fa apple-whole >}} Teaching assistance\
+Currently helping teaching [Biostatistics](https://admission.umontreal.ca/cours-et-horaires/cours/bio-2041/)\
+*Université de Montréal, Canada*\
 
 ------------------------------------------------------------------------
 
-## Affiliations 
+## Affiliations and friends
 
-{{< fa circle-nodes >}} [Quantitative and Computational Ecology Lab](https://poisotlab.io/)\
-*Université de Montréal, Quebec, Canada*\
+{{< fa circle-nodes >}} Quantitative and Computational Ecology Lab ([Poisot lab](https://poisotlab.io/))\
+*Université de Montréal, Canada*\
+Lab member\
 
-{{< fa circle-nodes >}} [Integrative Ecology Lab](https://ielab.recherche.usherbrooke.ca/)\
-*Université de Sherbrooke, Quebec, Canada*\
+{{< fa circle-nodes >}} Integrative Ecology Lab ([Gravel lab](https://ielab.recherche.usherbrooke.ca/))\
+*Université de Sherbrooke, Canada*\
+Lab member\
 
-{{< fa laptop >}} [Institute for Data Valorization](https://ivado.ca/en/) (IVADO)\
+{{< fa laptop >}} Institute for Data Valorization ([IVADO](https://ivado.ca/en/))\
 *Quebec, Canada*\
+Scholarship recipient\
 
-{{< fa laptop >}} [Computational Biodiversity Science & Services program](https://bios2.usherbrooke.ca/) 
-(BIOS²)\
-*Canada*\
+{{< fa laptop >}} Computational Biodiversity Science & Services program ([BIOS²](https://bios2.usherbrooke.ca/)), *Canada*\
+Fellow\
 
-{{< fa frog >}} [Quebec Centre for Biodiversity Science](https://qcbs.ca/) (QCBS)\
+{{< fa frog >}} Quebec Centre for Biodiversity Science ([QCBS](https://qcbs.ca/))\
 *Quebec, Canada*\
- 
+Student member\

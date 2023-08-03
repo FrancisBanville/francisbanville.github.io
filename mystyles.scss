@@ -74,8 +74,20 @@ p {
   font-family: montserrat;
 }
 
-.description, .quarto-category, .quarto-title-meta-contents, .card-index, .listing-description, .listing-category {
+.date, .quarto-category, .quarto-title-meta-contents, .affiliation, .card-index, .listing-description, .listing-category, .quarto-appendix-secondary-label {
   color: $black;
+  font-size: 0.7rem;
+  font-family: montserrat;
+}
+
+.description {
+  color: $black;
+  font-size: 1rem;
+  font-family: montserrat;
+}
+
+.quarto-title-meta-heading {
+  font-size: 1rem;
   font-family: montserrat;
 }
 
