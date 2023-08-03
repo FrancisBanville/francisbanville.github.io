@@ -57,7 +57,7 @@ I use he/him pronouns.
 
 ------------------------------------------------------------------------
 
-## Current occupation
+## What's keeping me busy now 
 
 {{< fa graduation-cap >}} Thesis redaction\
 Expected graduation in 2024\
@@ -68,7 +68,7 @@ Currently helping teaching [Biostatistics](https://admission.umontreal.ca/cours-
 
 ------------------------------------------------------------------------
 
-## Affiliations and friends
+## Current affiliations 
 
 {{< fa circle-nodes >}} Quantitative and Computational Ecology Lab ([Poisot lab](https://poisotlab.io/))\
 *Université de Montréal, Canada*\
