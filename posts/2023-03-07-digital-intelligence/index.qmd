@@ -43,9 +43,9 @@ This article was produced by me with the guidance of Marie-Paule Primeau, scienc
 
 Find some of my videos on IVADO's Youtube channel!
 
-[Mon projet de recherche IVADO en 800 mots](https://www.youtube.com/watch?v=aeWX1rpJaWg&ab_channel=IVADO)\
-[First Estimates of Food Web Structure Derived from Species Richness](https://www.youtube.com/watch?v=XFqDtf2BTg8&ab_channel=IVADO)\
-[Octobre Numérique IVADO 2020](https://www.youtube.com/watch?v=vIQDgTy8Gks&t=17s&ab_channel=IVADO)
+[{{< fa play >}} Mon projet de recherche IVADO en 800 mots](https://www.youtube.com/watch?v=aeWX1rpJaWg&ab_channel=IVADO)\
+[{{< fa play >}} First Estimates of Food Web Structure Derived from Species Richness](https://www.youtube.com/watch?v=XFqDtf2BTg8&ab_channel=IVADO)\
+[{{< fa play >}} Octobre Numérique IVADO 2020](https://www.youtube.com/watch?v=vIQDgTy8Gks&t=17s&ab_channel=IVADO)
 
 The [original version](https://ivado.ca/en/knowledge/predict-links-between-predators-and-prey/) of this blog post can be found on IVADO's website. This article is also available [in French](https://ivado.ca/connaissance/predire-les-liens-entre-predateurs-et-proies/).
 

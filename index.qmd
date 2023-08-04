@@ -82,7 +82,8 @@ Lab member\
 *Quebec, Canada*\
 Scholarship recipient\
 
-{{< fa laptop >}} Computational Biodiversity Science & Services program ([BIOS²](https://bios2.usherbrooke.ca/)), *Canada*\
+{{< fa laptop >}} Computational Biodiversity Science & Services program ([BIOS²](https://bios2.usherbrooke.ca/)) \
+*Canada*\
 Fellow\
 
 {{< fa frog >}} Quebec Centre for Biodiversity Science ([QCBS](https://qcbs.ca/))\

@@ -3,7 +3,7 @@ title: "Stochastic webs"
 image: meme_interaction.jpg
 description: " " 
 draft: false
-date: 01-03-2000
+date: 01-01-2000
 date-format: " "
 editor: source
 ---
