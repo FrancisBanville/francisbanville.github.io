@@ -76,7 +76,7 @@ Winter 2019, *Université de Montréal*\
 
 ##### BIO6033 Méthodes quantitatives en biologie
 Winter 2019, *Université de Montréal*\
-[{{< fa building-columns >}} admission](https://admission.umontreal.ca/cours-et-horaires/cours/bio-6033/)
+[{{< fa road >}} course syllabus](https://bio.umontreal.ca/public/FAS/biologie/Documents/1-Programmes-cours/Cours_et_horaires/HIVER_2018/BIO3033_Timothe__e_Poisot.pdf), [{{< fa building-columns >}} admission](https://admission.umontreal.ca/cours-et-horaires/cours/bio-6033/)
 
 ##### BIO6037 Analyse des réseaux écologiques
 Fall 2019, *Université de Montréal*\

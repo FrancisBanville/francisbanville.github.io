@@ -71,7 +71,7 @@ Currently helping teaching [Biostatistics](https://admission.umontreal.ca/cours-
 ## Current affiliations 
 
 [![Quantitative and Computational Ecology Lab (*U. de Montréal, Canada*)\
-Lab member](pictures/poisot_lab.png){width=120 fig-align="left"}](https://poisotlab.io/)
+Lab member](pictures/poisot_lab.png){width=125 fig-align="left"}](https://poisotlab.io/)
 
 
 [![Integrative Ecology Lab (*U. de Sherbrooke, Canada*)\
@@ -85,4 +85,6 @@ Fellow](pictures/bios2.png){width=125 fig-align="left"}](https://bios2.usherbroo
 
 [![Quebec Centre for Biodiversity Science (*Quebec, Canada*)\
 Student member](pictures/qcbs.png){width=110 fig-align="left"}](https://qcbs.ca/)
+
+
 
