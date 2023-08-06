@@ -64,7 +64,7 @@ Co-presentation of 1 virtual workshop\
 
 # Completed graduate courses
 
-### Credited courses 
+## Credited courses 
 
 ##### BIO6004 Communication scientifique
 Fall 2018, *Université de Montréal*\
@@ -116,7 +116,7 @@ Fall 2018, *Université de Montréal*\
 Winter 2019, *Université de Montréal*\
 [{{< fa road >}} course syllabus](https://espum.umontreal.ca/fileadmin/espum/documents/ESPUM/SYLLABUS/30_MSO6028_H17.pdf), [{{< fa building-columns >}} admission](https://admission.umontreal.ca/cours-et-horaires/cours/mso-6028/)
 
-### Extracurricular courses
+## Extracurricular courses
 
 ##### ECL807 École d’été en modélisation de la biodiversité 2021
 Summer 2021, *Université de Sherbrooke*\

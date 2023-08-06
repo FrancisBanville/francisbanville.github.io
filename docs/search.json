@@ -39,7 +39,7 @@
     "href": "index.html#current-affiliations",
     "title": "Francis Banville",
     "section": "Current affiliations",
-    "text": "Current affiliations\n Quantitative and Computational Ecology Lab (Poisot lab)\nUniversité de Montréal, Canada\nLab member\n\n Integrative Ecology Lab (Gravel lab)\nUniversité de Sherbrooke, Canada\nLab member\n\n Institute for Data Valorization (IVADO)\nQuebec, Canada\nScholarship recipient\n\n Computational Biodiversity Science & Services program (BIOS²)\nCanada\nFellow\n\n Quebec Centre for Biodiversity Science (QCBS)\nQuebec, Canada\nStudent member"
+    "text": "Current affiliations\n\n\n\nQuantitative and Computational Ecology Lab (U. de Montréal, Canada)\nLab member\n\n\n\n\n\nIntegrative Ecology Lab (U. de Sherbrooke, Canada)\nLab member\n\n\n\n\n\nInstitute for Data Valorization (Quebec, Canada)\nScholarship recipient\n\n\n\n\n\nComputational Biodiversity Science & Services program (Canada)\nFellow\n\n\n\n\n\nQuebec Centre for Biodiversity Science (Quebec, Canada)\nStudent member"
   },
   {
     "objectID": "posts/2023-03-07-digital-intelligence/index.html",
@@ -124,5 +124,19 @@
     "title": "Francis Banville",
     "section": "What’s keeping me busy these days",
     "text": "What’s keeping me busy these days\n Thesis redaction\nExpected graduation in 2024\n\n Teaching assistance\nCurrently helping teaching Biostatistics\nUniversité de Montréal, Canada"
+  },
+  {
+    "objectID": "courses.html#credited-courses",
+    "href": "courses.html#credited-courses",
+    "title": "Francis Banville",
+    "section": "Credited courses",
+    "text": "Credited courses\n\nBIO6004 Communication scientifique\nFall 2018, Université de Montréal\n course syllabus,  admission\n\n\nBIO6032 Biologie computationnelle et modélisation\nWinter 2019, Université de Montréal\n course syllabus,  admission\n\n\nBIO6033 Méthodes quantitatives en biologie\nWinter 2019, Université de Montréal\n admission\n\n\nBIO6037 Analyse des réseaux écologiques\nFall 2019, Université de Montréal\n course syllabus,  admission\n\n\nBIO6063 Travail dirigé 1\nSupervisors: Pr. Jean-François Lapierre and Pr. Roxanne Maranger\nSummer 2019, Université de Montréal\n admission\n\n\nBIO6065 École d’été en synthèse écologique de données\nSummer 2019, Université de Montréal\n admission\n\n\nBIO6077 Analyse quantitative des données\nFall 2018, Université de Montréal\n course syllabus,  admission\n\n\nBIO6115 Progrès en phylogénie systématique\nWinter 2019, Université de Montréal\n course syllabus,  admission\n\n\nBIO6260 Génomique microbienne\nFall 2018, Université de Montréal\n course syllabus,  admission\n\n\nBIO860M Séminaire thématique en écologie\nWinter 2021, UQAM\n admission\n\n\nGEO6321 Travaux pratiques en géomatique\nFall 2018, Université de Montréal\n admission\n\n\nMSO6028 Introduction aux théories de la mesure\nWinter 2019, Université de Montréal\n course syllabus,  admission"
+  },
+  {
+    "objectID": "courses.html#extracurricular-courses",
+    "href": "courses.html#extracurricular-courses",
+    "title": "Francis Banville",
+    "section": "Extracurricular courses",
+    "text": "Extracurricular courses\n\nECL807 École d’été en modélisation de la biodiversité 2021\nSummer 2021, Université de Sherbrooke\n admission,  material\n\n\nECL807 Advanced Field School in Computational Ecology 2023\nSummer 2023, Université de Sherbrooke and Université Laval\n admission,  Sentinelle Nord\n\n\n\nWe played the TrophIE Game during the Advanced Field School in Computational Ecology. This game simulates predator-prey dynamics by dividing players into three groups: top predators, intermediate predators, and prey. Prey could protect themselves from top predators in pre-installed shelters, but not from intermediate predators (!). The goal of the game was to avoid being killed and collect enough resources to survive. We played in Parc Eco (Quebec), a forest environment. We collected geographical and interaction data using electronic devices during the game and analyzed them for a class project. Picture credit: Sentinelle Nord, Université Laval.\n\n\n\n\nScientific collaboration in ecology and evolution\nFall 2022, Living Data Project (LDP)\n LDP certificates\n\n\nSynthesis statistics for ecology and evolution\nFall 2021, Living Data Project (LDP)\n syllabus,  LDP certificates\n\n\nShort Course on Forecasting for Decision-Making: An Epidemiological & Ecological Perspective\nSummer 2023, Ecological Forecasting Initiative (EFI)\nFields Institute, Toronto\n syllabus,  repo,  ecoforecast"
   }
 ]

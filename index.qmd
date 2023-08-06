@@ -70,22 +70,19 @@ Currently helping teaching [Biostatistics](https://admission.umontreal.ca/cours-
 
 ## Current affiliations 
 
-{{< fa circle-nodes >}} Quantitative and Computational Ecology Lab ([Poisot lab](https://poisotlab.io/))\
-*Université de Montréal, Canada*\
-Lab member\
+[![Quantitative and Computational Ecology Lab (*U. de Montréal, Canada*)\
+Lab member](pictures/poisot_lab.png){width=120 fig-align="left"}](https://poisotlab.io/)
 
-{{< fa circle-nodes >}} Integrative Ecology Lab ([Gravel lab](https://ielab.recherche.usherbrooke.ca/))\
-*Université de Sherbrooke, Canada*\
-Lab member\
 
-{{< fa laptop >}} Institute for Data Valorization ([IVADO](https://ivado.ca/en/))\
-*Quebec, Canada*\
-Scholarship recipient\
+[![Integrative Ecology Lab (*U. de Sherbrooke, Canada*)\
+Lab member](pictures/gravel_lab.png){width=60 fig-align="left"}](https://ielab.recherche.usherbrooke.ca/)
 
-{{< fa laptop >}} Computational Biodiversity Science & Services program ([BIOS²](https://bios2.usherbrooke.ca/)) \
-*Canada*\
-Fellow\
+[![Institute for Data Valorization (*Quebec, Canada*)\
+Scholarship recipient](pictures/ivado.png){width=125 fig-align="left"}](https://ivado.ca/en/)
 
-{{< fa frog >}} Quebec Centre for Biodiversity Science ([QCBS](https://qcbs.ca/))\
-*Quebec, Canada*\
-Student member\
+[![Computational Biodiversity Science & Services program (*Canada*)\
+Fellow](pictures/bios2.png){width=125 fig-align="left"}](https://bios2.usherbrooke.ca/)
+
+[![Quebec Centre for Biodiversity Science (*Quebec, Canada*)\
+Student member](pictures/qcbs.png){width=110 fig-align="left"}](https://qcbs.ca/)
+
