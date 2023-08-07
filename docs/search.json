@@ -152,5 +152,19 @@
     "title": "Network prediction",
     "section": "Papers",
     "text": "Papers\n\nIn MacDonald et al. (2020), we use our knowledge of the number of species present in food webs to predict their total number of interactions while taking into account meaningful constraints on the number of interactions.\nIn Strydom et al. (2021), we review computational tools used to predict and forecast species interactions, with a specific focus on machine learning approaches.\nIn Strydom et al. (2022A) and Strydom et al. (2022B), we present a method based on graph embedding and transfer learning to reconstruct the food network of Canadian mammals.\nIn Higino et al. (2023), we show how to find missing information about species interactions by using maps of species ranges.\n\n\n\n\nA wasp lies caught on a spider web. Both animals are predators that must eat other animals to live; in this case, the wasp may or may not become food for the spider. How certain is this interaction between species? We can think of this uncertainty as a probability, and the aggregate of all such interactions among organisms in one place as a statistical distribution. We show how to estimate the parameters of this distribution with accuracy, while respecting the biological constraints of real food webs. This makes it easier to describe and predict the structure of these important ecological networks (MacDonald, Banville, and Poisot, 2020). Photo credit: Yves Banville."
+  },
+  {
+    "objectID": "projects/maximum_entropy/index.html",
+    "href": "projects/maximum_entropy/index.html",
+    "title": "Maximum entropy",
+    "section": "",
+    "text": "Predators and prey form complex networks of energy flow that drive the functioning and dynamics of ecosystems. Because of their high number and variability, knowing all feeding relationships in food webs is very challenging, especially at large spatial and temporal scales. Fortunately, many properties of food webs can be studied without knowing every interaction by using simple computational tools. This is the case of their overall structure, which is driven by just a few ecological factors despite the large number of mechanisms shaping ecological networks. In this project, we use a mathematical framework to identify these important factors by applying a principle called “maximum entropy” to the analysis of food-web structure. With this knowledge, we can make more accurate predictions of ecological networks and better understand the relationships between predators and prey."
+  },
+  {
+    "objectID": "projects/maximum_entropy/index.html#papers",
+    "href": "projects/maximum_entropy/index.html#papers",
+    "title": "Maximum entropy",
+    "section": "Papers",
+    "text": "Papers\nIn Banville et al. (2023), we show that the number of prey and predators for each species in a food web is a fundamental property that shapes many aspects of the network.\n\n\n\nImagine you have a big box of colorful crayons and you want to draw a picture of Simba (the lion king). Maximum entropy is like having a rule that says “Use as many different colors and shapes as you can”. This means you will use all the crayons in your box to make a picture that could look like the one to the right. On the other hand, if someone told you “You can use less than ten colors”, your picture would not be as complex and would look more like the one to the left. That would be like having low entropy, where you have limited options for your picture. Our framework is based on the assumption that food webs are shaped in a way that allows for the most possibilities of network organizations (or options) to occur."
   }
 ]
