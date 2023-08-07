@@ -166,5 +166,19 @@
     "title": "Maximum entropy",
     "section": "Papers",
     "text": "Papers\nIn Banville et al. (2023), we show that the number of prey and predators for each species in a food web is a fundamental property that shapes many aspects of the network.\n\n\n\nImagine you have a big box of colorful crayons and you want to draw a picture of Simba (the lion king). Maximum entropy is like having a rule that says “Use as many different colors and shapes as you can”. This means you will use all the crayons in your box to make a picture that could look like the one to the right. On the other hand, if someone told you “You can use less than ten colors”, your picture would not be as complex and would look more like the one to the left. That would be like having low entropy, where you have limited options for your picture. Our framework is based on the assumption that food webs are shaped in a way that allows for the most possibilities of network organizations (or options) to occur."
+  },
+  {
+    "objectID": "projects/stochastic_food_webs/index.html",
+    "href": "projects/stochastic_food_webs/index.html",
+    "title": "Stochastic webs",
+    "section": "",
+    "text": "The stochastic nature of species interactions has led many biologists to adopt a probabilistic view of ecological networks. Representing species interactions probabilistically (how likely are they to interact?) as opposed to deterministically (do they interact?) allows a better assessment of their spatiotemporal variability and accounts for inherent uncertainties in observations and predictions. However, despite this growing interest in probabilistic networks, general guidelines regarding the estimation and documentation of probabilistic interaction data are still lacking. In this project, we review how probabilistic interactions are defined in the literature at different spatial scales, from local networks of realized interactions to regional networks of potential interactions (metawebs). We show that different network representations have different statistical behaviours when it comes to common ecological applications."
+  },
+  {
+    "objectID": "projects/stochastic_food_webs/index.html#papers",
+    "href": "projects/stochastic_food_webs/index.html#papers",
+    "title": "Stochastic webs",
+    "section": "Papers",
+    "text": "Papers\nIn Banville et al. (in preparation), we show that local probabilistic networks and metawebs differ in their spatial and temporal scaling of interactions, with potential interactions being scale-independent.\n\n\n\nHow different species interact with each other is like a game of chance. It can be very difficult to predict what will happen, especially in small areas."
   }
 ]

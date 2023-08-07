@@ -8,3 +8,10 @@ date-format: " "
 editor: source
 ---
 
+The stochastic nature of species interactions has led many biologists to adopt a probabilistic view of ecological networks. Representing species interactions probabilistically (how likely are they to interact?) as opposed to deterministically (do they interact?) allows a better assessment of their spatiotemporal variability and accounts for inherent uncertainties in observations and predictions. However, despite this growing interest in probabilistic networks, general guidelines regarding the estimation and documentation of probabilistic interaction data are still lacking. In this project, we review how probabilistic interactions are defined in the literature at different spatial scales, from local networks of realized interactions to regional networks of potential interactions (metawebs). We show that different network representations have different statistical behaviours when it comes to common ecological applications. 
+
+## Papers
+
+In Banville et al. (in preparation), we show that local probabilistic networks and metawebs differ in their spatial and temporal scaling of interactions, with potential interactions being scale-independent. 
+
+![How different species interact with each other is like a game of chance. It can be very difficult to predict what will happen, especially in small areas.](meme_interaction_complete.jpg){width=300}
