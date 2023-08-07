@@ -140,4 +140,4 @@ Fall 2021, *Living Data Project (LDP)*\
 ##### Short Course on Forecasting for Decision-Making: An Epidemiological & Ecological Perspective
 Summer 2023, *Ecological Forecasting Initiative (EFI)*\
 Fields Institute, Toronto\
-[{{< fa road >}} syllabus](http://www.fields.utoronto.ca/activities/23-24/forecasting), [{{< fa brands github >}} repo](https://github.com/kbbodner/cefi_shortcourse_students_2023), [{{< fa virus >}} ecoforecast](https://ecoforecast.org/)
+[{{< fa building-columns >}} admission](http://www.fields.utoronto.ca/activities/23-24/forecasting), [{{< fa brands github >}} repo](https://github.com/kbbodner/cefi_shortcourse_students_2023), [{{< fa virus >}} ecoforecast](https://ecoforecast.org/)
