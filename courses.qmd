@@ -13,7 +13,7 @@ Grader (fall 2021)\
 [{{< fa road >}} course syllabus](https://bio.umontreal.ca/public/FAS/biologie/Documents/1-Programmes-cours/Cours_et_horaires/AUTOMNE_2021/BIO1001__Automne2021_PC_HarveyE.pdf), [{{< fa building-columns >}} admission](https://admission.umontreal.ca/cours-et-horaires/cours/bio-1001/)
 
 ##### BIO2041 Biostatistique 1
-Head teaching assistant (fall 2022) and Teaching assistant (summers 2022-23)\
+Head teaching assistant (falls 2022-23) and Teaching assistant (summers 2022-23)\
 *Université de Montréal*\
 [{{< fa road >}} course syllabus](https://bio.umontreal.ca/public/FAS/biologie/Documents/1-Programmes-cours/Cours_et_horaires/AUTOMNE_2022/BIO2041.pdf), [{{< fa building-columns >}} admission](https://admission.umontreal.ca/cours-et-horaires/cours/bio-2041/)
 
