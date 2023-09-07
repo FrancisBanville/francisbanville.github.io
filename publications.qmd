@@ -4,6 +4,19 @@ editor: source
 
 # Publications
 
+##### 9. What constrains food webs? A maximum entropy framework for predicting their structure with minimal biases
+
+::: {.column-margin}
+[![](pictures/figures/degree-dist.png){height=220, width=220}](https://arxiv.org/abs/2210.03190)
+:::
+
+**Banville, F.**, Gravel, D., & Poisot, T. (2023)\
+*PLoS Computational Biology*\
+[{{< fa file-pen >}} article](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011458),
+[{{< fa brands github >}} repo](https://github.com/FrancisBanville/ms_maxent_networks)
+
+<br>
+
 ##### 8. Mismatch between IUCN range maps and species interactions data illustrated using the Serengeti food web
 
 ::: {.column-margin}
@@ -115,19 +128,6 @@ MacDonald, A., **Banville, F.**, & Poisot, T. (2020)\
 <br>
 
 # Preprints
-
-##### 2. What constrains food webs? A maximum entropy framework for predicting their structure with minimal biases
-
-::: {.column-margin}
-[![](pictures/figures/degree-dist.png){height=220, width=220}](https://arxiv.org/abs/2210.03190)
-:::
-
-**Banville, F.**, Gravel, D., & Poisot, T. (2022)\
-*ArXiv*\
-[{{< fa file-pen >}} preprint](https://arxiv.org/abs/2210.03190),
-[{{< fa brands github >}} repo](https://github.com/FrancisBanville/ms_maxent_networks)
-
-<br>
 
 ##### 1. Graph embedding and transfer learning can help predict potential species interaction networks despite data limitations
 

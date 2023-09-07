@@ -12,7 +12,7 @@ Predators and prey form complex networks of energy flow that drive the functioni
 
 ## Papers
 
-In [Banville et al. (2023)](https://arxiv.org/abs/2210.03190), we show that the number of prey and predators for each species in a food web is a fundamental property that shapes many aspects of the network. 
+In [Banville et al. (2023)](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011458), we show that the number of prey and predators for each species in a food web is a fundamental property that shapes many aspects of the network. 
 
 ![Imagine you have a big box of colorful crayons and you want to draw a picture of Simba (the lion king). Maximum entropy is like having a rule that says "Use as many different colors and shapes as you can". This means you will use all the crayons in your box to make a picture that could look like the one to the right. On the other hand, if someone told you "You can use less than ten colors", your picture would not be as complex and would look more like the one to the left. That would be like having low entropy, where you have limited options for your picture. Our framework is based on the assumption that food webs are shaped in a way that allows for the most possibilities of network organizations (or options) to occur.](maxent.png){width=400}
 
