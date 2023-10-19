@@ -16,7 +16,7 @@ Understanding how different species interact within ecological networks can be q
 
 * In [Strydom et al. (2021)](https://doi.org/10.1098/rstb.2021.0063), we review computational tools used to predict and forecast species interactions, with a specific focus on machine learning approaches.
 
-* In [Strydom et al. (2022A)](https://doi.org/10.1111/2041-210X.13835) and [Strydom et al. (2022B)](https://ecoevorxiv.org/repository/view/3823/), we present a method based on graph embedding and transfer learning to reconstruct the food network of Canadian mammals. 
+* In [Strydom et al. (2022)](https://doi.org/10.1111/2041-210X.13835) and [Strydom et al. (2023)](https://doi.org/10.1111/2041-210X.14228), we present a method based on graph embedding and transfer learning to reconstruct the food network of Canadian mammals. 
 
 * In [Higino et al. (2023)](https://doi.org/10.7717/peerj.14620), we show how to find missing information about species interactions by using maps of species ranges.
 

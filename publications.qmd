@@ -4,6 +4,19 @@ editor: source
 
 # Publications
 
+##### 10. Graph embedding and transfer learning can help predict potential species interaction networks despite data limitations
+
+::: {.column-margin}
+[![](pictures/figures/transfer-learning2.png){height=220, width=220}](https://doi.org/10.1111/2041-210X.14228)
+:::
+
+Strydom, T., Bouskila, S., **Banville, F.**, Barros, C., Caron, D., Farrell, M.J., Fortin, M.-J., Mercier, B., Pollock, L.J., Runghen, R., Dalla Riva, G.V., & Poisot. T. (2023)\
+*Methods in Ecology and Evolution*\
+[{{< fa file-pen >}} article](https://doi.org/10.1111/2041-210X.14228),
+[{{< fa brands github >}} repo](https://github.com/PoisotLab/ms_metaweb_perspectives)
+
+<br>
+
 ##### 9. What constrains food webs? A maximum entropy framework for predicting their structure with minimal biases
 
 ::: {.column-margin}
@@ -127,17 +140,7 @@ MacDonald, A., **Banville, F.**, & Poisot, T. (2020)\
 
 <br>
 
-# Preprints
 
-##### 1. Graph embedding and transfer learning can help predict potential species interaction networks despite data limitations
 
-::: {.column-margin}
-[![](pictures/figures/transfer-learning2.png){height=220, width=220}](https://ecoevorxiv.org/repository/view/3823/)
-:::
-
-Strydom, T., Bouskila, S., **Banville, F.**, Barros, C., Caron, D., Farrell, M.J., Fortin, M.-J., Hemming, V., Mercier, B., Pollock, L.J., Runghen, R., Dalla Riva, G.V., & Poisot. T. (2022)\
-*EcoEvoRxiv*\
-[{{< fa file-pen >}} preprint](https://ecoevorxiv.org/repository/view/3823/),
-[{{< fa brands github >}} repo](https://github.com/PoisotLab/ms_metaweb_perspectives)
 
 
