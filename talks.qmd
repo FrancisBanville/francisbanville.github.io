@@ -24,6 +24,14 @@ ESA & CSEE Joint Meeting (Inspire session), Montreal, Qc, Canada\
 
 # Contributed talks
 
+##### 7. Quoi, quand et où manger ? À la découverte des interactions trophiques entre contraintes et incertitudes
+
+**Banville, F.**, Gravel, D., & Poisot, T. (2024, February 19-21)\
+2024 QCBS Symposium, Montreal, Qc, Canada\
+[{{< fa comments >}} event](https://qcbs.ca/symposium-2024/),
+[{{< fa file-powerpoint >}} slides](https://docs.google.com/presentation/d/1-yFDbnM18t3pqEc9kgjXTWK-uwjLbwiMoGFbX8krXSA/edit?usp=sharing)
+
+
 ##### 6. Comment les réseaux de prédateurs et de proies sont-ils structurés dans les milieux naturels?
 
 **Banville, F.**, Gravel, D., & Poisot, T. (2023, May 8-12)\
