@@ -24,6 +24,13 @@ ESA & CSEE Joint Meeting (Inspire session), Montreal, Qc, Canada\
 
 # Contributed talks
 
+##### 8. Quoi, quand et où manger ? À la découverte des interactions trophiques entre contraintes et incertitudes
+
+**Banville, F.**, Gravel, D., & Poisot, T. (2024, March 21-22)\
+34th Biology Symposium of the University of Montreal, Montreal, Qc, Canada\
+[{{< fa comments >}} event](https://event.fourwaves.com/fr/34esymposiumbioudem/pages),
+[{{< fa file-powerpoint >}} slides](https://docs.google.com/presentation/d/1uMO1P9T6c-h9yQuSR1MNB2INzoDvBN_gz2p_6nwYu3k/edit?usp=sharing)
+
 ##### 7. Quoi, quand et où manger ? À la découverte des interactions trophiques entre contraintes et incertitudes
 
 **Banville, F.**, Gravel, D., & Poisot, T. (2024, February 19-21)\
