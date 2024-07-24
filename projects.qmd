@@ -6,4 +6,3 @@ listing:
   sort: "date" # can also sort on more than one field
   date-format: " "
 ---
-

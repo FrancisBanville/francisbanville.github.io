@@ -140,7 +140,20 @@ MacDonald, A., **Banville, F.**, & Poisot, T. (2020)\
 
 <br>
 
+# Preprints 
 
+##### 1. Deciphering probabilistic species interaction networks
+
+::: {.column-margin}
+[![](pictures/figures/interaction-probabilities.png){height=220, width=220}](https://doi.org/10.32942/X28G8Z)
+:::
+
+**Banville, F.**, Strydom, T., Blyth, P., Brimacombe, C., Catchen, M.D., Dansereau, G., Higino, G., Malpas, T., Mayall, H., Norman, K., Gravel, D., and Poisot, T. (2024)\
+*EcoEvoRxiv*\
+[{{< fa file-pen >}} preprint](https://doi.org/10.32942/X28G8Z),
+[{{< fa brands github >}} repo](https://github.com/FrancisBanville/ms_interpreting_probabilities)
+
+<br>
 
 
 
