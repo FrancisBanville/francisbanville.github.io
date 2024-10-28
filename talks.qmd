@@ -11,7 +11,9 @@ Arce Plata, M.I., **Banville, F.**, Cruz Rodriguez, C., Dansereau, G., Forero‑
 GEO BON pavilion, 2024 United Nations Biodiversity Conference (COP16), Cali,
 Colombia.\
 [{{< fa comments >}} event](https://www.cop16colombia.com/es/),
-[{{< fa star >}} side event](https://earthobservations.org/events/session/connecting-dots-bringing-together-scientists-policymakers-and-practitioners-better-implement-biodiversity-indicators)
+[{{< fa star >}} side event](https://earthobservations.org/events/session/connecting-dots-bringing-together-scientists-policymakers-and-practitioners-better-implement-biodiversity-indicators),
+[{{< fa file-powerpoint >}} slides](https://docs.google.com/presentation/d/1VFMbzEr4gnnkjd4P_eYIT5MfIZSUOqI7XdEjjoegD48/edit#slide=id.g2d4af4d33e7_1_29)
+
 
 ##### 2. Complexity matters: subjectivity as practice in contemporary biology
 
