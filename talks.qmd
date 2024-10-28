@@ -5,6 +5,14 @@ cap-location: margin
 
 # Organized sessions
 
+##### 3. Connecting the dots: Bringing together scientists, policymakers, and practitioners to better implement biodiversity indicators
+
+Arce Plata, M.I., **Banville, F.**, Cruz Rodriguez, C., Dansereau, G., Forero‑Muñoz, N.R, & Poisot, T. (2024, October 24)\
+GEO BON pavilion, 2024 United Nations Biodiversity Conference (COP16), Cali,
+Colombia.\
+[{{< fa comments >}} event](https://www.cop16colombia.com/es/),
+[{{< fa star >}} side event](https://earthobservations.org/events/session/connecting-dots-bringing-together-scientists-policymakers-and-practitioners-better-implement-biodiversity-indicators)
+
 ##### 2. Complexity matters: subjectivity as practice in contemporary biology
 
 Leroux, E., Mélançon, V., **Banville, F.**, Brémaud, J., Robitaille, F., & Gholamhosseini, M. (2023, March 16-17)\
