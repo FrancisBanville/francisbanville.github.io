@@ -13,7 +13,7 @@ Grader (fall 2021)\
 [{{< fa road >}} course syllabus](https://bio.umontreal.ca/public/FAS/biologie/Documents/1-Programmes-cours/Cours_et_horaires/AUTOMNE_2021/BIO1001__Automne2021_PC_HarveyE.pdf), [{{< fa building-columns >}} admission](https://admission.umontreal.ca/cours-et-horaires/cours/bio-1001/)
 
 ##### BIO2041 Biostatistique 1
-Head teaching assistant (falls 2022-23, summer 2024) and Teaching assistant (summers 2022-23)\
+Head teaching assistant (falls 2022-24, summer 2024) and Teaching assistant (summers 2022-23)\
 *Université de Montréal*\
 [{{< fa road >}} course syllabus](https://bio.umontreal.ca/public/FAS/biologie/Documents/1-Programmes-cours/Cours_et_horaires/AUTOMNE_2022/BIO2041.pdf), [{{< fa building-columns >}} admission](https://admission.umontreal.ca/cours-et-horaires/cours/bio-2041/)
 
@@ -21,6 +21,11 @@ Head teaching assistant (falls 2022-23, summer 2024) and Teaching assistant (sum
 Head teaching assistant (winter 2024) and Teaching assistant (winter 2023)\
 *Université de Montréal*\
 [{{< fa road >}} course syllabus](https://bio.umontreal.ca/public/FAS/biologie/Documents/1-Programmes-cours/Cours_et_horaires/HIVER_2023/BIO2042.pdf), [{{< fa building-columns >}} admission](https://admission.umontreal.ca/cours-et-horaires/cours/bio-2042/)
+
+##### BIO2043 Statistique pratique pour sciences de la vie
+Teaching assistant (fall 2024)\
+*Université de Montréal*\
+[{{< fa building-columns >}} admission](https://admission.umontreal.ca/cours-et-horaires/cours/bio-2043/)
 
 ##### BIO2811 Dynamique des populations
 Grader (winters 2021-22)\
