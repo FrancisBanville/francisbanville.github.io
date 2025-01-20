@@ -59,8 +59,8 @@ Co-presentation of 3 workshops in *Montreal, Canada* and virtually\
 
 ##### Software carpentry
 Computational Biodiversity Science & Services program (BIOS²)\
-Co-presentation of 2 workshops in *Rimouski, Canada*\
-[{{< fa laptop >}} software carpentry](https://software-carpentry.org/), [{{< fa building-columns >}} information](https://bios2.usherbrooke.ca/2021/10/13/software-carpentry-workshop-2021/)
+Co-presentation of 3 workshops in *Rimouski and Montreal, Canada*\
+[{{< fa laptop >}} software carpentry](https://software-carpentry.org/), [{{< fa building-columns >}} information](https://bios2.usherbrooke.ca/2021/10/13/software-carpentry-workshop-2021/), [{{< fa building-columns >}} information](https://bios2.usherbrooke.ca/fr/2025/01/07/atelier-r-et-git-du-code-a-la-collaboration/)
 
 ##### Twitch workshops
 Poisot lab\
@@ -145,4 +145,4 @@ Fall 2021, *Living Data Project (LDP)*\
 ##### Short Course on Forecasting for Decision-Making: An Epidemiological & Ecological Perspective
 Summer 2023, *Ecological Forecasting Initiative (EFI)*\
 Fields Institute, Toronto\
-[{{< fa building-columns >}} admission](http://www.fields.utoronto.ca/activities/23-24/forecasting), [{{< fa brands github >}} repo](https://github.com/CanadianEFI/shortcourse-2023), [{{< fa virus >}} ecoforecast](https://ecoforecast.org/) 
+[{{< fa building-columns >}} admission](http://www.fields.utoronto.ca/activities/23-24/forecasting), [{{< fa brands github >}} repo](https://github.com/CanadianEFI/shortcourse-2023), [{{< fa virus >}} ecoforecast](https://ecoforecast.org/) ro
