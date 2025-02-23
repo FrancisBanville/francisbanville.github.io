@@ -31,17 +31,13 @@ website:
         text: CV
       - icon: github
         href: https://github.com/FrancisBanville
-      - icon: twitter
-        href: https://twitter.com/francisbanv
   page-footer:     
       background: light 
       left: 
-        - "Copyright 2023, Francis Banville"
+        - "Copyright 2025, Francis Banville"
       right: 
         - icon: github
           href: https://github.com/FrancisBanville
-        - icon: twitter
-          href: https://twitter.com/francisbanv
 
 format:
   html:

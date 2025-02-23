@@ -16,9 +16,9 @@ about:
     - icon: youtube
       text: Youtube
       href: https://www.youtube.com/channel/UCZwgeAPVXkufGKgrNBHNJ4w
-    - icon: twitter
-      text: Twitter
-      href: https://twitter.com/francisbanv
+    - icon: bootstrap-fill
+      text: Bluesky
+      href: https://bsky.app/profile/francisbanville.bsky.social
     - icon: mastodon
       text: Mastodon
       href: https://mastodon.social/@francisbanville
@@ -34,14 +34,11 @@ about:
     - icon: researchgate
       text: "{{< fa brands researchgate >}} ResearchGate"
       href: https://www.researchgate.net/profile/Francis-Banville-2
-    - icon: goodreads
-      text: <i class="fa-brands fa-goodreads"></i> goodreads
-      href: https://www.goodreads.com/user/show/108453241-francis-banville
 ---
 
 ## Hi there! Salut!
 
-I am a PhD candidate in computational ecology based in [Tiohtià:ke](https://www.concordia.ca/indigenous/resources/territorial-acknowledgement.html#rationale) (Montreal, Quebec). I have a profound interest in understanding how living organisms interact with each other and how these relationships, good and bad, can alter our understanding of biodiversity. My love for numbers and computers have led me to develop mathematical models of food webs, which are complex networks of predators and prey. With my models, I aim to improve our understanding of the ecological drivers of species interactions, in both aquatic and terrestrial environments, and predict the structure of food webs on a global scale.
+I am a postdoctoral fellow in computational ecology at the University of Montreal. I have a profound interest in understanding how living organisms interact with each other and how these relationships, good and bad, can alter our understanding of biodiversity. My love for numbers and computers have led me to develop mathematical models of food webs, which are complex networks of predators and prey. With my models, I aim to improve our understanding of the ecological drivers of species interactions, in both aquatic and terrestrial environments, and predict the structure of food webs both locally and regionally.
 
 I use he/him pronouns.  
 
@@ -49,42 +46,29 @@ I use he/him pronouns.
 
 ## Education
 
-{{< fa graduation-cap >}} [PhD in Biological Sciences](https://admission.umontreal.ca/programmes/doctorat-en-sciences-biologiques/) (since 2019)\
+{{< fa graduation-cap >}} Postdoc in biodiversity science and policy (since 2025)\
 *Université de Montréal, Canada*\
 
-{{< fa graduation-cap >}} [BSc in Biological Sciences](https://admission.umontreal.ca/programmes/baccalaureat-en-sciences-biologiques/) (2016-18)\
+{{< fa graduation-cap >}} PhD in computational ecology (2019-24)\
 *Université de Montréal, Canada*\
 
 ------------------------------------------------------------------------
 
 ## What's keeping me busy now 
 
-{{< fa graduation-cap >}} Thesis redaction\
-Expected graduation in 2024\
+{{< fa graduation-cap >}} I'm currently looking at the link between biodiversity indicators and One Health. Stay tuned!
 
-{{< fa apple-whole >}} Teaching assistance\
-Currently helping teaching [Biostatistics](https://admission.umontreal.ca/cours-et-horaires/cours/bio-2041/)\
-*Université de Montréal, Canada*\
+{{< fa apple-whole >}} I'm also learning how to teach to become an ecology professor.
 
 ------------------------------------------------------------------------
 
 ## Current affiliations 
 
-[![Quantitative and Computational Ecology Lab (*U. de Montréal, Canada*)\
-Lab member](pictures/poisot_lab.png){width=125 fig-align="left"}](https://poisotlab.io/)
+[![Computational Ecology Research Group](pictures/poisot_lab.png){width=125 fig-align="left"}](https://poisotlab.io/)
 
+[![Computational Biodiversity Science & Services program](pictures/bios2.png){width=125 fig-align="left"}](https://bios2.usherbrooke.ca/)
 
-[![Integrative Ecology Lab (*U. de Sherbrooke, Canada*)\
-Lab member](pictures/gravel_lab.png){width=60 fig-align="left"}](https://ielab.recherche.usherbrooke.ca/)
+[![Quebec Centre for Biodiversity Science](pictures/qcbs.png){width=110 fig-align="left"}](https://qcbs.ca/)
 
-[![Institute for Data Valorization (*Quebec, Canada*)\
-Scholarship recipient](pictures/ivado.png){width=125 fig-align="left"}](https://ivado.ca/en/)
-
-[![Computational Biodiversity Science & Services program (*Canada*)\
-Fellow](pictures/bios2.png){width=125 fig-align="left"}](https://bios2.usherbrooke.ca/)
-
-[![Quebec Centre for Biodiversity Science (*Quebec, Canada*)\
-Student member](pictures/qcbs.png){width=110 fig-align="left"}](https://qcbs.ca/)
-
-
+[![Verena](pictures/verena.png){width=110 fig-align="left"}](https://www.viralemergence.org/) 
 

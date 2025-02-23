@@ -1,20 +1,17 @@
 [
   {
-    "listing": "/posts.html",
-    "items": [
-      "/posts/2023-03-07-digital-intelligence/index.html",
-      "/posts/2023-03-07-forecasting-lcbd/index.html"
-    ]
-  },
-  {
     "listing": "/projects.html",
     "items": [
       "/projects/stochastic_food_webs/index.html",
       "/projects/maximum_entropy/index.html",
-      "/projects/network_prediction/index.html",
-      "/projects/working_groups/index.html",
-      "/projects/internships/index.html",
-      "/projects/book_club/index.html"
+      "/projects/network_prediction/index.html"
+    ]
+  },
+  {
+    "listing": "/posts.html",
+    "items": [
+      "/posts/2023-03-07-digital-intelligence/index.html",
+      "/posts/2023-03-07-forecasting-lcbd/index.html"
     ]
   }
 ]
