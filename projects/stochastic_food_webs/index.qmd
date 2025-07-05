@@ -12,6 +12,6 @@ The stochastic nature of species interactions has led many biologists to adopt a
 
 ## Papers
 
-In [Banville et al. (2024)](https://doi.org/10.32942/X28G8Z), we show that local probabilistic networks and metawebs differ in their spatial and temporal scaling of interactions, with potential interactions being scale-independent. 
+In [Banville et al. (2025)](https://doi.org/10.1111/ele.70161), we show that local probabilistic networks and metawebs differ in their spatial and temporal scaling of interactions, with potential interactions being scale-independent. 
 
 ![How different species interact with each other is like a game of chance. It can be very difficult to predict what will happen, especially in small areas.](meme_interaction_complete.jpg){width=300}

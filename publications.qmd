@@ -4,6 +4,17 @@ editor: source
 
 # Publications
 
+##### 11. Deciphering probabilistic species interaction networks
+
+::: {.column-margin}
+[![](pictures/figures/interaction-probabilities.png){height=220, width=220}](https://doi.org/10.32942/X28G8Z)
+:::
+
+**Banville, F.**, Strydom, T., Blyth, P., Brimacombe, C., Catchen, M.D., Dansereau, G., Higino, G., Malpas, T., Mayall, H., Norman, K., Gravel, D., and Poisot, T. (2025)\
+*Ecology Letters*\
+[{{< fa file-pen >}} article](https://doi.org/10.1111/ele.70161),
+[{{< fa brands github >}} repo](https://github.com/FrancisBanville/ProbabilisticSpeciesInteractionNetworks)
+
 ##### 10. Graph embedding and transfer learning can help predict potential species interaction networks despite data limitations
 
 ::: {.column-margin}
@@ -137,21 +148,6 @@ MacDonald, A., **Banville, F.**, & Poisot, T. (2020)\
 *Patterns*\
 [{{< fa file-pen >}} article](https://doi.org/10.1016/j.patter.2020.100079), 
 [{{< fa brands github >}} repo](https://github.com/PoisotLab/ms_straight_lines)
-
-<br>
-
-# Preprints 
-
-##### 1. Deciphering probabilistic species interaction networks
-
-::: {.column-margin}
-[![](pictures/figures/interaction-probabilities.png){height=220, width=220}](https://doi.org/10.32942/X28G8Z)
-:::
-
-**Banville, F.**, Strydom, T., Blyth, P., Brimacombe, C., Catchen, M.D., Dansereau, G., Higino, G., Malpas, T., Mayall, H., Norman, K., Gravel, D., and Poisot, T. (2024)\
-*EcoEvoRxiv*\
-[{{< fa file-pen >}} preprint](https://doi.org/10.32942/X28G8Z),
-[{{< fa brands github >}} repo](https://github.com/FrancisBanville/ms_interpreting_probabilities)
 
 <br>
 
