@@ -7,13 +7,15 @@ editor: source
 ##### 11. Deciphering probabilistic species interaction networks
 
 ::: {.column-margin}
-[![](pictures/figures/interaction-probabilities.png){height=220, width=220}](https://doi.org/10.32942/X28G8Z)
+[![](pictures/figures/interaction-probabilities.png){height=220, width=220}](https://doi.org/10.1111/ele.70161)
 :::
 
 **Banville, F.**, Strydom, T., Blyth, P., Brimacombe, C., Catchen, M.D., Dansereau, G., Higino, G., Malpas, T., Mayall, H., Norman, K., Gravel, D., and Poisot, T. (2025)\
 *Ecology Letters*\
 [{{< fa file-pen >}} article](https://doi.org/10.1111/ele.70161),
 [{{< fa brands github >}} repo](https://github.com/FrancisBanville/ProbabilisticSpeciesInteractionNetworks)
+
+<br>
 
 ##### 10. Graph embedding and transfer learning can help predict potential species interaction networks despite data limitations
 
