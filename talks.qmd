@@ -47,7 +47,7 @@ ESA & CSEE Joint Meeting (Inspire session), Montreal, Qc, Canada\
 **Banville, F.** & Poisot, T. (2025, October 23)\
 Living Data 2025, Bogota, Colombia\
 [{{< fa comments >}} event](https://www.livingdata2025.com/),
-[{{< fa play >}} video (38'30-45'20)](https://www.youtube.com/watch?v=-vsS2G2Adrk),
+[{{< fa play >}} video](https://youtu.be/-vsS2G2Adrk?t=2316),
 [{{< fa file-powerpoint >}} slides](https://docs.google.com/presentation/d/1JFmrOEyDE3plcCg6JrP_sXh3Wp-2TJ5a/edit?usp=sharing&ouid=108192429759767179887&rtpof=true&sd=true)
 
 
@@ -56,7 +56,7 @@ Living Data 2025, Bogota, Colombia\
 **Banville, F.**, Carlson, C., Paz Velez, A., & Poisot, T. (2025, October 23)\
 Living Data 2025, Bogota, Colombia\
 [{{< fa comments >}} event](https://www.livingdata2025.com/),
-[{{< fa play >}} video (9'30-16'00)](https://www.youtube.com/watch?v=-vsS2G2Adrk),
+[{{< fa play >}} video](https://youtu.be/-vsS2G2Adrk?t=572),
 [{{< fa file-powerpoint >}} slides](https://docs.google.com/presentation/d/17exxnOYN2SPi4apAtO8lFrcm0ahjyHNR/edit?usp=sharing&ouid=108192429759767179887&rtpof=true&sd=true)
 
 ##### 11. Monitoring biodiversity for human, animal, and environmental health
