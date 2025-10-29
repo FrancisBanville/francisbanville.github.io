@@ -5,11 +5,19 @@ cap-location: margin
 
 # Organized sessions
 
+##### 4. Biodiversity data for One Health: Integrating open data to address global health challenges
+
+Groom, Q., Schwantes, C., **Banville, F.**, Hoyos, J., Marceló-Díaz, D., Upham, N., and Poisot, T. (2025, October 23)\
+Living Data 2025, Bogota, Colombia\
+[{{< fa comments >}} event](https://www.livingdata2025.com/),
+[{{< fa star >}} symposium](https://www.livingdata2025.com/program.html?session=6796861_2025-10-23_Valle),
+[{{< fa play >}} video](https://www.youtube.com/watch?v=-vsS2G2Adrk&t=1651s)
+
 ##### 3. Connecting the dots: Bringing together scientists, policymakers, and practitioners to better implement biodiversity indicators
 
 Arce Plata, M.I., **Banville, F.**, Cruz Rodriguez, C., Dansereau, G., Forero‑Muñoz, N.R, & Poisot, T. (2024, October 24)\
 GEO BON pavilion, 2024 United Nations Biodiversity Conference (COP16), Cali,
-Colombia.\
+Colombia\
 [{{< fa comments >}} event](https://www.cop16colombia.com/es/),
 [{{< fa star >}} side event](https://earthobservations.org/events/session/connecting-dots-bringing-together-scientists-policymakers-and-practitioners-better-implement-biodiversity-indicators),
 [{{< fa file-powerpoint >}} slides](https://docs.google.com/presentation/d/1VFMbzEr4gnnkjd4P_eYIT5MfIZSUOqI7XdEjjoegD48/edit#slide=id.g2d4af4d33e7_1_29)
@@ -33,6 +41,23 @@ ESA & CSEE Joint Meeting (Inspire session), Montreal, Qc, Canada\
 
 
 # Contributed talks
+
+##### 13. Biodiversity monitoring and biosurveillance are fellow travellers
+
+**Banville, F.** & Poisot, T. (2025, October 23)\
+Living Data 2025, Bogota, Colombia\
+[{{< fa comments >}} event](https://www.livingdata2025.com/),
+[{{< fa play >}} video (38'30-45'20)](https://www.youtube.com/watch?v=-vsS2G2Adrk&t=1651s),
+[{{< fa file-powerpoint >}} slides](https://docs.google.com/presentation/d/1JFmrOEyDE3plcCg6JrP_sXh3Wp-2TJ5a/edit?usp=sharing&ouid=108192429759767179887&rtpof=true&sd=true)
+
+
+##### 12. Monitoring biodiversity for human, animal, and environmental health
+
+**Banville, F.**, Carlson, C., Paz Velez, A., & Poisot, T. (2025, October 23)\
+Living Data 2025, Bogota, Colombia\
+[{{< fa comments >}} event](https://www.livingdata2025.com/),
+[{{< fa play >}} video (9'30-16'00)](https://www.youtube.com/watch?v=-vsS2G2Adrk&t=1651s),
+[{{< fa file-powerpoint >}} slides](https://docs.google.com/presentation/d/17exxnOYN2SPi4apAtO8lFrcm0ahjyHNR/edit?usp=sharing&ouid=108192429759767179887&rtpof=true&sd=true)
 
 ##### 11. Monitoring biodiversity for human, animal, and environmental health
 
