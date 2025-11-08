@@ -152,6 +152,19 @@ MacDonald, A., **Banville, F.**, & Poisot, T. (2020)\
 [{{< fa brands github >}} repo](https://github.com/PoisotLab/ms_straight_lines)
 
 <br>
+<br>
+
+# Preprints
+
+##### 1. Tracking Community Change via Network Coherence
+
+::: {.column-margin}
+[![](pictures/figures/coherence.png){height=220, width=220}](https://doi.org/10.1101/2025.11.04.686602)
+:::
+
+Fuster-Calvo, A., Higino, G.T., Parent, C., Caron, D., **Banville, F.**, Massol, F., Blanchet, F.G., Hebert, K., Pollock, L., Maiorano, L., Guimaraes, P.R., Silva, P., Thuiller, W., & Gravel, D. (2025)\
+*bioRxiv*\
+[{{< fa file-pen >}} article](https://doi.org/10.1101/2025.11.04.686602) 
 
 
 
