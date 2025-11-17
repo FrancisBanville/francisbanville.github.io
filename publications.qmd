@@ -4,6 +4,19 @@ editor: source
 
 # Publications
 
+##### 12. Impersonating predators and prey to study trophic interactions through real-life simulations
+::: {.column-margin}
+[![](pictures/figures/trophie.png){height=220, width=220}](http://doi.org/10.1111/2041-210x.70180 )
+:::
+
+Bolduc, D., Dulude-de Broin, F., Bergeron, G., Villeneuve, C., Weiss-Blais, M., Couloigner, C., Dubourg, R., Fraser-Franco, M., **Banville, F.**, Moisan, L., Montiglio, P.-O., Fortin, D., Thibault, F., Allard, A., Gaudreau-Rousseau, C., Roca, I., Durand, A., Massé, C., Barreau, E., … Legagneux, P. (2025)\
+*Methods in Ecology and Evolution*\
+[{{< fa file-pen >}} article](http://doi.org/10.1111/2041-210x.70180 ),
+[{{< fa brands github >}} repo](https://github.com/gabrielbouleau/TrophIE_pub)
+
+<br>
+
+
 ##### 11. Deciphering probabilistic species interaction networks
 
 ::: {.column-margin}
