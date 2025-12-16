@@ -110,7 +110,7 @@ Strydom, T., Catchen, M.D., **Banville, F.**, Caron, D., Dansereau, G., Desjardi
 
 <br>
 
-##### 4. Computers Can Help us Find Raccoons and Other Living Creatures
+##### 4. Computers can help us find raccoons and other living creatures
 
 ::: {.column-margin}
 [![](pictures/figures/raccoon.png){height=220, width=220}](https://kids.frontiersin.org/articles/10.3389/frym.2021.595275)
@@ -139,7 +139,7 @@ Higino G., Forero N., **Banville, F.**, Dansereau, G., & Poisot, T. (2021)\
 
 <br>
 
-##### 2. \[Re\] Chaos in a Three-Species Food Chain
+##### 2. \[Re\] Chaos in a three-species food chain
 
 ::: {.column-margin}
 [![](pictures/figures/cup.png){height=220, width=220}](https://doi.org/10.5281/zenodo.4022518)
@@ -153,7 +153,7 @@ Dansereau, G., **Banville, F.**, Basque, E., MacDonald, A., & Poisot, T. (2020)\
 <br>
 <br>
 
-##### 1. Revisiting the Links-Species Scaling Relationship in Food Webs
+##### 1. Revisiting the links-species scaling relationship in food webs
 
 ::: {.column-margin}
 [![](pictures/figures/links.png){height=220, width=220}](https://doi.org/10.1016/j.patter.2020.100079)
@@ -169,7 +169,21 @@ MacDonald, A., **Banville, F.**, & Poisot, T. (2020)\
 
 # Preprints
 
-##### 1. Tracking Community Change via Network Coherence
+##### 2. A protocol for biodiversity-informed wildlife disease surveillance
+
+::: {.column-margin}
+[![](pictures/figures/sampling_india.png){height=220, width=220}](https://ecoevorxiv.org/repository/view/11160/)
+:::
+
+Catchen, M.D., **Banville, F.**, Boutin, A.C., Brookson, C.B., Carlson, C.J., Dansereau, G., Gibb, R., Houle, M., Kaza, B., Robertson, H., Simons, D., Seifert, S., & Poisot, T. (2025)\
+*EcoEvoRxiv*\
+[{{< fa file-pen >}} article](https://ecoevorxiv.org/repository/view/11160/) 
+[{{< fa brands github >}} repo](https://github.com/gottacatchenall/OptimalSamplingBiosurveillance)
+
+<br>
+
+
+##### 1. Tracking community change via network coherence
 
 ::: {.column-margin}
 [![](pictures/figures/coherence.png){height=220, width=220}](https://doi.org/10.1101/2025.11.04.686602)
