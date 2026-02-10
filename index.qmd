@@ -38,7 +38,7 @@ about:
 
 ## Hi there! Salut!
 
-I am a postdoctoral fellow in biology at the University of Montreal, working on the usability of biodiversity indicators for monitoring One Health actions. In my PhD, I developed mathematical models of species interactions, notably host-parasite, predator-prey and plant-pollinator interactions. With my models, I aim to improve our understanding of the ecological drivers of species interactions, in both aquatic and terrestrial environments, and predict the structure of ecological networks both locally and regionally.
+I am a postdoctoral fellow in biology at the University of Montreal, working on the usability of biodiversity indicators for monitoring One Health actions. In my PhD, I developed mathematical models of species interactions, notably host-parasite, predator-prey and plant-pollinator interactions. With my models, I aimed to improve our understanding of the ecological drivers of species interactions, in both aquatic and terrestrial environments, and predict the structure of ecological networks both locally and regionally.
 
 I use he/him pronouns.  
 
