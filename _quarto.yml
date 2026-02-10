@@ -20,6 +20,8 @@ website:
         text: talks
       - href: posts.qmd
         text: blog
+      - href: resources.qmd
+        text: resources
     right: 
       - href: CV/CV.pdf
         text: CV
