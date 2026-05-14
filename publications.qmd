@@ -169,6 +169,20 @@ MacDonald, A., **Banville, F.**, & Poisot, T. (2020)\
 
 # Preprints
 
+##### 3.  The Global Biodiversity Framework supports global assessment of One Health actions
+
+::: {.column-margin}
+[![](pictures/figures/one-health-indicators.png){height=220, width=220}](https://ecoevorxiv.org/repository/view/13028/)
+:::
+
+**Banville, F.**, Burnel, C., Carlson, C.J., Eiffener, E., Munoz Acevedo, G., Paz, A., & Poisot, T. (2026)\
+*EcoEvoRxiv*\
+[{{< fa file-pen >}} article](https://ecoevorxiv.org/repository/view/13028/), 
+[{{< fa brands github >}} code repo](https://github.com/FrancisBanville/BiodiversityForHealth),
+[{{< fa brands github >}} article repo](https://github.com/FrancisBanville/ms_biodiversity_for_health)
+
+<br>
+
 ##### 2. A protocol for biodiversity-informed wildlife disease surveillance
 
 ::: {.column-margin}
@@ -177,7 +191,7 @@ MacDonald, A., **Banville, F.**, & Poisot, T. (2020)\
 
 Catchen, M.D., **Banville, F.**, Boutin, A.C., Brookson, C.B., Carlson, C.J., Dansereau, G., Gibb, R., Houle, M., Kaza, B., Robertson, H., Simons, D., Seifert, S., & Poisot, T. (2025)\
 *EcoEvoRxiv*\
-[{{< fa file-pen >}} article](https://ecoevorxiv.org/repository/view/11160/) 
+[{{< fa file-pen >}} article](https://ecoevorxiv.org/repository/view/11160/), 
 [{{< fa brands github >}} repo](https://github.com/gottacatchenall/OptimalSamplingBiosurveillance)
 
 <br>
