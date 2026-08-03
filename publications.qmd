@@ -4,6 +4,19 @@ editor: source
 
 # Publications
 
+##### 13. A paleoecological trophic network model of the Early Ordovician Lower Fezouata Shale (Morocco) fossil fauna
+::: {.column-margin}
+[![](pictures/figures/paleo1.png){height=220, width=220}](https://doi.org/10.1016/j.isci.2026.116819)
+:::
+
+Soucy, C.P., **Banville, F.**, Beasley, E., Lefebvre, B., Gutiérrez-Marco, J.C., Poisot, T., & Cameron, C.B. (2026)\
+*iScience*\
+[{{< fa file-pen >}} article](https://doi.org/10.1016/j.isci.2026.116819),
+[{{< fa brands github >}} repo](https://github.com/FrancisBanville/paleo-foodwebs)
+
+<br>
+
+
 ##### 12. Impersonating predators and prey to study trophic interactions through real-life simulations
 ::: {.column-margin}
 [![](pictures/figures/trophie.png){height=220, width=220}](http://doi.org/10.1111/2041-210x.70180 )
@@ -23,7 +36,7 @@ Bolduc, D., Dulude-de Broin, F., Bergeron, G., Villeneuve, C., Weiss-Blais, M., 
 [![](pictures/figures/interaction-probabilities.png){height=220, width=220}](https://doi.org/10.1111/ele.70161)
 :::
 
-**Banville, F.**, Strydom, T., Blyth, P., Brimacombe, C., Catchen, M.D., Dansereau, G., Higino, G., Malpas, T., Mayall, H., Norman, K., Gravel, D., and Poisot, T. (2025)\
+**Banville, F.**, Strydom, T., Blyth, P., Brimacombe, C., Catchen, M.D., Dansereau, G., Higino, G., Malpas, T., Mayall, H., Norman, K., Gravel, D., & Poisot, T. (2025)\
 *Ecology Letters*\
 [{{< fa file-pen >}} article](https://doi.org/10.1111/ele.70161),
 [{{< fa brands github >}} repo](https://github.com/FrancisBanville/ProbabilisticSpeciesInteractionNetworks)
