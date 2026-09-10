@@ -4,6 +4,21 @@ editor: source
 
 # Publications
 
+##### 14. A protocol for biodiversity-informed wildlife disease surveillance
+
+::: {.column-margin}
+[![](pictures/figures/sampling_india.png){height=220, width=220}](https://doi.org/10.1371/journal.pesy.0000023)
+:::
+
+Catchen, M.D., **Banville, F.**, Boutin, A.C., Brookson, C.B., Carlson, C.J., Dansereau, G., Gibb, R., Houle, M., Kaza, B., Robertson, H., Simons, D., Seifert, S.N., & Poisot, T. (2026)\
+*PLOS Ecosystems*\
+[{{< fa file-pen >}} article](https://doi.org/10.1371/journal.pesy.0000023), 
+[{{< fa brands github >}} repo](https://github.com/gottacatchenall/OptimalSamplingBiosurveillance)
+
+<br>
+
+
+
 ##### 13. A paleoecological trophic network model of the Early Ordovician Lower Fezouata Shale (Morocco) fossil fauna
 ::: {.column-margin}
 [![](pictures/figures/paleo1.png){height=220, width=220}](https://doi.org/10.1016/j.isci.2026.116819)
@@ -182,7 +197,7 @@ MacDonald, A., **Banville, F.**, & Poisot, T. (2020)\
 
 # Preprints
 
-##### 3.  The Global Biodiversity Framework supports global assessment of One Health actions
+##### 2.  The Global Biodiversity Framework supports global assessment of One Health actions
 
 ::: {.column-margin}
 [![](pictures/figures/one-health-indicators.png){height=220, width=220}](https://ecoevorxiv.org/repository/view/13028/)
@@ -195,20 +210,6 @@ MacDonald, A., **Banville, F.**, & Poisot, T. (2020)\
 [{{< fa brands github >}} article repo](https://github.com/FrancisBanville/ms_biodiversity_for_health)
 
 <br>
-
-##### 2. A protocol for biodiversity-informed wildlife disease surveillance
-
-::: {.column-margin}
-[![](pictures/figures/sampling_india.png){height=220, width=220}](https://ecoevorxiv.org/repository/view/11160/)
-:::
-
-Catchen, M.D., **Banville, F.**, Boutin, A.C., Brookson, C.B., Carlson, C.J., Dansereau, G., Gibb, R., Houle, M., Kaza, B., Robertson, H., Simons, D., Seifert, S., & Poisot, T. (2025)\
-*EcoEvoRxiv*\
-[{{< fa file-pen >}} article](https://ecoevorxiv.org/repository/view/11160/), 
-[{{< fa brands github >}} repo](https://github.com/gottacatchenall/OptimalSamplingBiosurveillance)
-
-<br>
-
 
 ##### 1. Tracking community change via network coherence
 
