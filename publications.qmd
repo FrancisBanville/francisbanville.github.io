@@ -197,6 +197,18 @@ MacDonald, A., **Banville, F.**, & Poisot, T. (2020)\
 
 # Preprints
 
+##### 3. Designing optimal biodiversity observation networks
+
+::: {.column-margin}
+[![](pictures/figures/optimal_BON.png){height=220, width=220}](https://ecoevorxiv.org/repository/view/14980/)
+:::
+
+Catchen, M.D., **Banville, F.**, Blyth, P., Brimacombe, C., Dansereau, G., Higino, G., Malpas, T., Mayall, H., Norman, K., Strydom, T., Pollock, L.J., Gonzalez, A., & Poisot, T. (2026)\
+*EcoEvoRxiv*\
+[{{< fa file-pen >}} article](https://ecoevorxiv.org/repository/view/14980/) 
+
+<br>
+
 ##### 2.  The Global Biodiversity Framework supports global assessment of One Health actions
 
 ::: {.column-margin}
